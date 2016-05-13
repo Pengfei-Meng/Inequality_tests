@@ -1,0 +1,123 @@
+krylov_tolerance : 1.000000e-02,  des_tol : 1.000000e-06
+initial grad_norm : 1.732051e+00,  target grad_norm : 1.732051e-06
+-------------------------------------------------------------
+nonlinear iteration : 1
+current obj : 1.560000e+00,  current grad_norm : 1.732051e+00
+krylov_tol : 9.500000e-03 
+-------------------------------------------------------------
+nonlinear iteration : 2
+current obj : 1.992945e+00,  current grad_norm : 1.732051e+00
+krylov_tol : 9.500000e-03 
+-------------------------------------------------------------
+nonlinear iteration : 3
+current obj : 2.425886e+00,  current grad_norm : 1.732051e+00
+krylov_tol : 9.500000e-03 
+-------------------------------------------------------------
+nonlinear iteration : 4
+current obj : 2.858757e+00,  current grad_norm : 1.732051e+00
+krylov_tol : 9.500000e-03 
+-------------------------------------------------------------
+nonlinear iteration : 5
+current obj : 3.003560e+00,  current grad_norm : 1.732051e+00
+krylov_tol : 9.500000e-03 
+-------------------------------------------------------------
+nonlinear iteration : 6
+current obj : 2.901810e+00,  current grad_norm : 1.732051e+00
+krylov_tol : 9.500000e-03 
+-------------------------------------------------------------
+nonlinear iteration : 7
+current obj : 2.748540e+00,  current grad_norm : 1.732051e+00
+krylov_tol : 9.500000e-03 
+-------------------------------------------------------------
+nonlinear iteration : 8
+current obj : 2.538881e+00,  current grad_norm : 1.732051e+00
+krylov_tol : 9.500000e-03 
+-------------------------------------------------------------
+nonlinear iteration : 9
+current obj : 2.277357e+00,  current grad_norm : 1.732051e+00
+krylov_tol : 9.500000e-03 
+-------------------------------------------------------------
+nonlinear iteration : 10
+current obj : 1.969324e+00,  current grad_norm : 1.732051e+00
+krylov_tol : 9.500000e-03 
+-------------------------------------------------------------
+nonlinear iteration : 11
+current obj : 1.621069e+00,  current grad_norm : 1.732051e+00
+krylov_tol : 9.500000e-03 
+-------------------------------------------------------------
+nonlinear iteration : 12
+current obj : 1.239700e+00,  current grad_norm : 1.732051e+00
+krylov_tol : 9.500000e-03 
+-------------------------------------------------------------
+nonlinear iteration : 13
+current obj : 8.330000e-01,  current grad_norm : 1.732051e+00
+krylov_tol : 9.500000e-03 
+-------------------------------------------------------------
+nonlinear iteration : 14
+current obj : 4.092695e-01,  current grad_norm : 1.732051e+00
+krylov_tol : 9.500000e-03 
+-------------------------------------------------------------
+nonlinear iteration : 15
+current obj : -2.284414e-02,  current grad_norm : 1.732051e+00
+krylov_tol : 9.500000e-03 
+-------------------------------------------------------------
+nonlinear iteration : 16
+current obj : -4.545225e-01,  current grad_norm : 1.732051e+00
+krylov_tol : 9.500000e-03 
+-------------------------------------------------------------
+nonlinear iteration : 17
+current obj : -8.769560e-01,  current grad_norm : 1.732051e+00
+krylov_tol : 9.500000e-03 
+-------------------------------------------------------------
+nonlinear iteration : 18
+current obj : -1.281524e+00,  current grad_norm : 1.732051e+00
+krylov_tol : 9.500000e-03 
+-------------------------------------------------------------
+nonlinear iteration : 19
+current obj : -1.659970e+00,  current grad_norm : 1.732051e+00
+krylov_tol : 9.500000e-03 
+-------------------------------------------------------------
+nonlinear iteration : 20
+current obj : -2.004570e+00,  current grad_norm : 1.732051e+00
+krylov_tol : 9.500000e-03 
+-------------------------------------------------------------
+nonlinear iteration : 21
+current obj : -2.308293e+00,  current grad_norm : 1.732051e+00
+krylov_tol : 9.500000e-03 
+-------------------------------------------------------------
+nonlinear iteration : 22
+current obj : -2.564938e+00,  current grad_norm : 1.732051e+00
+krylov_tol : 9.500000e-03 
+-------------------------------------------------------------
+nonlinear iteration : 23
+current obj : -2.769269e+00,  current grad_norm : 1.732051e+00
+krylov_tol : 9.500000e-03 
+-------------------------------------------------------------
+nonlinear iteration : 24
+current obj : -2.917113e+00,  current grad_norm : 1.732051e+00
+krylov_tol : 9.500000e-03 
+-------------------------------------------------------------
+nonlinear iteration : 25
+current obj : -3.005455e+00,  current grad_norm : 1.732051e+00
+krylov_tol : 9.500000e-03 
+-------------------------------------------------------------
+nonlinear iteration : 26
+current obj : -3.031924e+00,  current grad_norm : 1.732051e+00
+krylov_tol : 9.500000e-03 
+-------------------------------------------------------------
+nonlinear iteration : 27
+current obj : -3.000665e+00,  current grad_norm : 1.732051e+00
+krylov_tol : 9.500000e-03 
+-------------------------------------------------------------
+nonlinear iteration : 28
+current obj : -3.000008e+00,  current grad_norm : 1.732051e+00
+krylov_tol : 9.500000e-03 
+-------------------------------------------------------------
+nonlinear iteration : 29
+current obj : -3.000000e+00,  current grad_norm : 1.732051e+00
+krylov_tol : 9.500000e-03 
+-------------------------------------------------------------
+norm(dLdX) : 1.768173e-09 optimization loop terminated because: norm(dLdX) < 1e-6 
+ --- extra added terminating condition 
+outer iter: 29,  xk: -1.000000 -1.000000 -1.000000 
+lambda: -0.500000, f: -3.000000, c: -0.000000 

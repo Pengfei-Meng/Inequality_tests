@@ -1,0 +1,32 @@
+%-----------------------------------------------
+On shell prompt: 
+pengfei@pengfei-Linux:~/Developer/CUTEst/sif$ cutest2matlab HS76
+
+On matlab prompt:
+addpath('/home/pengfei/Developer/CUTEst/cutest/src/matlab')
+
+set workspace at /home/pengfei/Developer/CUTEst/sif
+
+prob = cutest_setup()     works fine! 
+%-----------------------------------------------
+Lesson learned: 
+cutest2matlab prob_name  at shell
+prob = cutest_setup()    at matlab 
+
+should happen in the same directory
+%-----------------------------------------------
+
+
+
+
+On matlab prompt: 
+
+
+
+Undefined function 'mcutest' for input arguments of type 'char'.
+
+Error in cutest_setup (line 9)
+    [varargout{:}] = mcutest('setup',varargin{:});
+ 
+
+

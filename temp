@@ -1,0 +1,233 @@
+krylov_tolerance : 1.000000e-02,  des_tol : 1.000000e-06
+initial grad_norm : 2.236068e+00,  target grad_norm : 2.236068e-06
+initial feas_norm : 0.000000e+00,  target feas_norm : 1.000000e-12
+-------------------------------------------------------------
+nonlinear iteration : 1
+current obj : 2.000000e+00, grad_norm : 2.236068e+00, feas_norm: 0.000000e+00
+mu : 10.000000, 
+norm(lambda, Inf): 0.000000  
+krylov_tol : 9.500000e-03 
+back_tracking alpha: 1.000000  
+-------------------------------------------------------------
+nonlinear iteration : 2
+current obj : 3.596857e-01, grad_norm : 1.265114e+00, feas_norm: 0.000000e+00
+mu : 10.000000, 
+norm(lambda, Inf): 0.000000  
+krylov_tol : 7.145719e-03 
+back_tracking alpha: 0.500000  
+-------------------------------------------------------------
+nonlinear iteration : 3
+current obj : -2.063817e-01, grad_norm : 1.126907e+00, feas_norm: 2.395628e-01
+mu : 10.000000, 
+norm(lambda, Inf): 0.000000  
+krylov_tol : 6.819056e-03 
+back_tracking alpha: 1.000000  
+-------------------------------------------------------------
+nonlinear iteration : 4
+current obj : -1.317599e-01, grad_norm : 1.526940e-01, feas_norm: 1.234486e-01
+mu : 10.000000, 
+norm(lambda, Inf): 1.315033  
+krylov_tol : 2.815149e-03 
+back_tracking alpha: 1.000000  
+-------------------------------------------------------------
+nonlinear iteration : 5
+current obj : 5.731305e-02, grad_norm : 1.200266e-02, feas_norm: 5.898727e-02
+mu : 10.000000, 
+norm(lambda, Inf): 0.955633  
+krylov_tol : 1.558709e-03 
+back_tracking alpha: 1.000000  
+-------------------------------------------------------------
+nonlinear iteration : 6
+current obj : -2.737212e-03, grad_norm : 5.198054e-03, feas_norm: 2.733469e-03
+mu : 10.000000, 
+norm(lambda, Inf): 0.997529  
+krylov_tol : 4.868661e-04 
+back_tracking alpha: 1.000000  
+-------------------------------------------------------------
+nonlinear iteration : 7
+current obj : -2.723591e-04, grad_norm : 2.655501e-04, feas_norm: 2.723221e-04
+mu : 10.000000, 
+norm(lambda, Inf): 1.000007  
+krylov_tol : 1.239026e-04 
+back_tracking alpha: 1.000000  
+-------------------------------------------------------------
+nonlinear iteration : 8
+current obj : 7.901763e-07, grad_norm : 7.883315e-07, feas_norm: 7.901766e-07
+mu : 10.000000, 
+norm(lambda, Inf): 1.000000  
+krylov_tol : 6.711926e-06 
+back_tracking alpha: 1.000000  
+-------------------------------------------------------------
+nonlinear iteration : 9
+current obj : -2.047064e-10, grad_norm : 2.047077e-10, feas_norm: 2.047064e-10
+mu : 10.000000, 
+norm(lambda, Inf): 1.000000  
+krylov_tol : 4.640794e-03 
+back_tracking alpha: 0.500000  
+-------------------------------------------------------------
+nonlinear iteration : 10
+current obj : -1.023533e-10, grad_norm : 1.023539e-10, feas_norm: 1.023532e-10
+mu : 10.000000, 
+norm(lambda, Inf): 1.000000  
+krylov_tol : 9.281582e-03 
+back_tracking alpha: 0.031250  
+-------------------------------------------------------------
+nonlinear iteration : 11
+current obj : -9.915474e-11, grad_norm : 9.915535e-11, feas_norm: 9.915468e-11
+mu : 10.000000, 
+norm(lambda, Inf): 1.000000  
+krylov_tol : 9.580990e-03 
+back_tracking alpha: 0.007812  
+-------------------------------------------------------------
+nonlinear iteration : 12
+current obj : -9.915474e-11, grad_norm : 9.915535e-11, feas_norm: 9.915468e-11
+mu : 10.000000, 
+norm(lambda, Inf): 1.000000  
+krylov_tol : 9.580990e-03 
+back_tracking alpha: 0.007812  
+-------------------------------------------------------------
+nonlinear iteration : 13
+current obj : -9.915474e-11, grad_norm : 9.915535e-11, feas_norm: 9.915468e-11
+mu : 10.000000, 
+norm(lambda, Inf): 1.000000  
+krylov_tol : 9.580990e-03 
+back_tracking alpha: 0.007812  
+-------------------------------------------------------------
+nonlinear iteration : 14
+current obj : -9.915474e-11, grad_norm : 9.915535e-11, feas_norm: 9.915468e-11
+mu : 10.000000, 
+norm(lambda, Inf): 1.000000  
+krylov_tol : 9.580990e-03 
+back_tracking alpha: 0.007812  
+-------------------------------------------------------------
+nonlinear iteration : 15
+current obj : -9.915474e-11, grad_norm : 9.915535e-11, feas_norm: 9.915468e-11
+mu : 10.000000, 
+norm(lambda, Inf): 1.000000  
+krylov_tol : 9.580990e-03 
+back_tracking alpha: 0.007812  
+-------------------------------------------------------------
+nonlinear iteration : 16
+current obj : -9.915474e-11, grad_norm : 9.915535e-11, feas_norm: 9.915468e-11
+mu : 10.000000, 
+norm(lambda, Inf): 1.000000  
+krylov_tol : 9.580990e-03 
+back_tracking alpha: 0.007812  
+-------------------------------------------------------------
+nonlinear iteration : 17
+current obj : -9.915474e-11, grad_norm : 9.915535e-11, feas_norm: 9.915468e-11
+mu : 10.000000, 
+norm(lambda, Inf): 1.000000  
+krylov_tol : 9.580990e-03 
+back_tracking alpha: 0.007812  
+-------------------------------------------------------------
+nonlinear iteration : 18
+current obj : -9.915474e-11, grad_norm : 9.915535e-11, feas_norm: 9.915468e-11
+mu : 10.000000, 
+norm(lambda, Inf): 1.000000  
+krylov_tol : 9.580990e-03 
+back_tracking alpha: 0.007812  
+-------------------------------------------------------------
+nonlinear iteration : 19
+current obj : -9.915474e-11, grad_norm : 9.915535e-11, feas_norm: 9.915468e-11
+mu : 10.000000, 
+norm(lambda, Inf): 1.000000  
+krylov_tol : 9.580990e-03 
+back_tracking alpha: 0.007812  
+-------------------------------------------------------------
+nonlinear iteration : 20
+current obj : -9.915474e-11, grad_norm : 9.915535e-11, feas_norm: 9.915468e-11
+mu : 10.000000, 
+norm(lambda, Inf): 1.000000  
+krylov_tol : 9.580990e-03 
+back_tracking alpha: 0.007812  
+-------------------------------------------------------------
+nonlinear iteration : 21
+current obj : -9.915474e-11, grad_norm : 9.915535e-11, feas_norm: 9.915468e-11
+mu : 10.000000, 
+norm(lambda, Inf): 1.000000  
+krylov_tol : 9.580990e-03 
+back_tracking alpha: 0.007812  
+-------------------------------------------------------------
+nonlinear iteration : 22
+current obj : -9.915474e-11, grad_norm : 9.915535e-11, feas_norm: 9.915468e-11
+mu : 10.000000, 
+norm(lambda, Inf): 1.000000  
+krylov_tol : 9.580990e-03 
+back_tracking alpha: 0.007812  
+-------------------------------------------------------------
+nonlinear iteration : 23
+current obj : -9.915474e-11, grad_norm : 9.915535e-11, feas_norm: 9.915468e-11
+mu : 10.000000, 
+norm(lambda, Inf): 1.000000  
+krylov_tol : 9.580990e-03 
+back_tracking alpha: 0.007812  
+-------------------------------------------------------------
+nonlinear iteration : 24
+current obj : -9.915474e-11, grad_norm : 9.915535e-11, feas_norm: 9.915468e-11
+mu : 10.000000, 
+norm(lambda, Inf): 1.000000  
+krylov_tol : 9.580990e-03 
+back_tracking alpha: 0.007812  
+-------------------------------------------------------------
+nonlinear iteration : 25
+current obj : -9.915474e-11, grad_norm : 9.915535e-11, feas_norm: 9.915468e-11
+mu : 10.000000, 
+norm(lambda, Inf): 1.000000  
+krylov_tol : 9.580990e-03 
+back_tracking alpha: 0.007812  
+-------------------------------------------------------------
+nonlinear iteration : 26
+current obj : -9.915474e-11, grad_norm : 9.915535e-11, feas_norm: 9.915468e-11
+mu : 10.000000, 
+norm(lambda, Inf): 1.000000  
+krylov_tol : 9.580990e-03 
+back_tracking alpha: 0.007812  
+-------------------------------------------------------------
+nonlinear iteration : 27
+current obj : -9.915474e-11, grad_norm : 9.915535e-11, feas_norm: 9.915468e-11
+mu : 10.000000, 
+norm(lambda, Inf): 1.000000  
+krylov_tol : 9.580990e-03 
+back_tracking alpha: 0.007812  
+-------------------------------------------------------------
+nonlinear iteration : 28
+current obj : -9.915474e-11, grad_norm : 9.915535e-11, feas_norm: 9.915468e-11
+mu : 10.000000, 
+norm(lambda, Inf): 1.000000  
+krylov_tol : 9.580990e-03 
+back_tracking alpha: 0.007812  
+-------------------------------------------------------------
+nonlinear iteration : 29
+current obj : -9.915474e-11, grad_norm : 9.915535e-11, feas_norm: 9.915468e-11
+mu : 10.000000, 
+norm(lambda, Inf): 1.000000  
+krylov_tol : 9.580990e-03 
+back_tracking alpha: 0.007812  
+-------------------------------------------------------------
+nonlinear iteration : 30
+current obj : -9.915474e-11, grad_norm : 9.915535e-11, feas_norm: 9.915468e-11
+mu : 10.000000, 
+norm(lambda, Inf): 1.000000  
+krylov_tol : 9.580990e-03 
+back_tracking alpha: 1.000000  
+-------------------------------------------------------------
+nonlinear iteration : 31
+current obj : -2.639516e-11, grad_norm : 2.639511e-11, feas_norm: 2.639511e-11
+mu : 10.000000, 
+norm(lambda, Inf): 1.000000  
+krylov_tol : 3.599152e-02 
+back_tracking alpha: 1.000000  
+-------------------------------------------------------------
+nonlinear iteration : 32
+current obj : -5.509552e-17, grad_norm : 8.241734e-24, feas_norm: 0.000000e+00
+mu : 10.000000, 
+norm(lambda, Inf): 1.000000  
+
+-------------------------------------------------------------
+optimization loop terminated because: grad_norm < grad_tol && feas_norm < feas_tol
+outer iter: 32, f: -0.000000, c: 0.000000, grad_norm : 8.241734e-24, feas_norm: 0.000000e+00 
+krylov_tol : 2.577448e+17 
+
+ xk: -0.000000, 
+ xk: -0.000000, 

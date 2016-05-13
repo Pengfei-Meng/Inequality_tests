@@ -1,0 +1,36 @@
+krylov_tolerance : 1.000000e-02,  des_tol : 1.000000e-06
+initial grad_norm : 2.236068e+00,  target grad_norm : 2.236068e-06
+initial feas_norm : 0.000000e+00,  target feas_norm : 1.000000e-12
+-------------------------------------------------------------
+nonlinear iteration : 1
+current obj : 7.500000e-01, grad_norm : 2.236068e+00, feas_norm: 0.000000e+00
+lambda: 0.100000, 0.100000  krylov_tol : 9.500000e-03 
+-------------------------------------------------------------
+nonlinear iteration : 2
+current obj : 2.170878e-01, grad_norm : 2.081546e+00, feas_norm: 0.000000e+00
+lambda: 0.100000, 0.100000  krylov_tol : 9.165879e-03 
+-------------------------------------------------------------
+nonlinear iteration : 3
+current obj : -3.055595e-01, grad_norm : 2.156306e+00, feas_norm: 0.000000e+00
+lambda: 0.100000, 0.100000  krylov_tol : 9.329025e-03 
+-------------------------------------------------------------
+nonlinear iteration : 4
+current obj : -8.725622e-01, grad_norm : 2.507101e+00, feas_norm: 8.014730e-02
+lambda: 0.100000, 0.100000  krylov_tol : 9.500000e-03 
+-------------------------------------------------------------
+nonlinear iteration : 5
+current obj : -1.497630e+00, grad_norm : 9.952701e-01, feas_norm: 2.890724e-01
+lambda: -2.000000, 0.100000  krylov_tol : 6.467625e-03 
+-------------------------------------------------------------
+nonlinear iteration : 6
+current obj : -1.219249e+00, grad_norm : 4.997915e-01, feas_norm: 1.251787e-01
+lambda: -2.000000, 0.100000  krylov_tol : 4.560174e-03 
+-------------------------------------------------------------
+nonlinear iteration : 7
+current obj : -1.000000e+00, grad_norm : 3.330669e-16, feas_norm: 0.000000e+00
+lambda: -2.000000, 0.100000  
+-------------------------------------------------------------
+optimization loop terminated because: grad_norm < grad_tol && feas_norm < feas_tol
+outer iter: 7,  xk: 0.000000 -1.000000,  f: -1.000000, c: 0.000000 0.000000 
+grad_norm : 3.330669e-16, feas_norm: 0.000000e+00 
+final lambda: -2.000000 0.100000 

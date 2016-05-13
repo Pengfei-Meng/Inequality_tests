@@ -1,0 +1,7 @@
+krylov_tolerance : 1.000000e-02,  des_tol : 1.000000e-06
+initial grad_norm : 4.000000e-01,  target grad_norm : 4.000000e-07
+initial feas_norm : 2.236068e+00,  target feas_norm : 2.236068e-06
+-------------------------------------------------------------
+nonlinear iteration : 1
+current obj : 0.000000e+00, grad_norm : 4.000000e-01, feas_norm: 2.236068e+00
+krylov_tol : 9.500000e-03 

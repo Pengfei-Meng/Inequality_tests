@@ -1,0 +1,75 @@
+krylov_tolerance : 1.000000e-02,  des_tol : 1.000000e-06
+initial grad_norm : 7.745967e+00,  target grad_norm : 7.745967e-06
+initial feas_norm : 5.682162e+01,  target feas_norm : 5.682162e-05
+-------------------------------------------------------------
+nonlinear iteration : 1
+current obj : 4.000000e+00, grad_norm : 7.745967e+00, feas_norm: 5.682162e+01
+mu : 10.000000, 
+norm(lambda, Inf): 0.000000  
+krylov_tol : 9.500000e-03 
+back_tracking alpha: 1.000000  
+-------------------------------------------------------------
+nonlinear iteration : 2
+current obj : 1.264808e+00, grad_norm : 2.426994e+00, feas_norm: 1.687857e+01
+mu : 10.000000, 
+norm(lambda, Inf): 0.049710  
+krylov_tol : 5.180330e-03 
+back_tracking alpha: 1.000000  
+-------------------------------------------------------------
+nonlinear iteration : 3
+current obj : 5.539628e-01, grad_norm : 7.777084e-01, feas_norm: 4.064041e+00
+mu : 10.000000, 
+norm(lambda, Inf): 0.088559  
+krylov_tol : 2.551829e-03 
+back_tracking alpha: 1.000000  
+-------------------------------------------------------------
+nonlinear iteration : 4
+current obj : 3.717961e-01, grad_norm : 2.732299e-01, feas_norm: 5.168457e-01
+mu : 10.000000, 
+norm(lambda, Inf): 0.115392  
+krylov_tol : 9.591922e-04 
+back_tracking alpha: 1.000000  
+-------------------------------------------------------------
+nonlinear iteration : 5
+current obj : 3.273796e-01, grad_norm : 1.268646e-01, feas_norm: 1.135454e-02
+mu : 10.000000, 
+norm(lambda, Inf): 0.108269  
+krylov_tol : 4.477175e-04 
+back_tracking alpha: 1.000000  
+-------------------------------------------------------------
+nonlinear iteration : 6
+current obj : 2.959925e-01, grad_norm : 7.707728e-02, feas_norm: 8.064988e-03
+mu : 10.000000, 
+norm(lambda, Inf): 0.082658  
+krylov_tol : 3.492313e-04 
+back_tracking alpha: 0.500000  
+-------------------------------------------------------------
+nonlinear iteration : 7
+current obj : 2.764520e-01, grad_norm : 2.294796e-02, feas_norm: 1.349382e-02
+mu : 10.000000, 
+norm(lambda, Inf): 0.052233  
+krylov_tol : 3.206676e-04 
+back_tracking alpha: 1.000000  
+-------------------------------------------------------------
+nonlinear iteration : 8
+current obj : 2.770161e-01, grad_norm : 7.111768e-04, feas_norm: 4.536212e-04
+mu : 10.000000, 
+norm(lambda, Inf): 0.054957  
+krylov_tol : 1.034717e-02 
+back_tracking alpha: 1.000000  
+-------------------------------------------------------------
+nonlinear iteration : 9
+current obj : 2.770444e-01, grad_norm : 4.218019e-06, feas_norm: 7.743268e-06
+mu : 10.000000, 
+norm(lambda, Inf): 0.055034  
+
+-------------------------------------------------------------
+optimization loop terminated because: grad_norm < grad_tol && feas_norm < feas_tol
+outer iter: 9, f: 0.277044, c: -0.000008, c: 0.000000, grad_norm : 4.218019e-06, feas_norm: 7.743268e-06 
+krylov_tol : 1.744579e+00 
+
+ xk: 1.286930, 
+ xk: 1.480234, 
+ xk: 1.379455, 
+ xk: 1.321946, 
+ xk: 0.628714, 

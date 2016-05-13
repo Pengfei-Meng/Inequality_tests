@@ -1,0 +1,54 @@
+krylov_tolerance : 1.000000e-02,  des_tol : 1.000000e-06
+initial grad_norm : 3.464102e+00,  target grad_norm : 3.464102e-06
+initial feas_norm : 3.000000e+00,  target feas_norm : 3.000000e-06
+-------------------------------------------------------------
+nonlinear iteration : 1
+current obj : 6.000000e+00, grad_norm : 3.464102e+00, feas_norm: 3.000000e+00
+krylov_tol : 9.500000e-03 
+-------------------------------------------------------------
+nonlinear iteration : 2
+current obj : 4.405673e+00, grad_norm : 3.008008e+00, feas_norm: 2.973064e+00
+krylov_tol : 9.126506e-03 
+-------------------------------------------------------------
+nonlinear iteration : 3
+current obj : 2.823505e-01, grad_norm : 6.159355e-01, feas_norm: 4.170722e-01
+krylov_tol : 3.827489e-03 
+-------------------------------------------------------------
+nonlinear iteration : 4
+current obj : 2.209604e-01, grad_norm : 4.454172e-01, feas_norm: 3.525927e-02
+krylov_tol : 2.966405e-03 
+-------------------------------------------------------------
+nonlinear iteration : 5
+current obj : 1.339739e-01, grad_norm : 1.342340e-01, feas_norm: 6.019652e-04
+krylov_tol : 1.625932e-03 
+-------------------------------------------------------------
+nonlinear iteration : 6
+current obj : 1.250000e-01, grad_norm : 1.757049e-13, feas_norm: 3.379340e-14
+
+-------------------------------------------------------------
+optimization loop terminated because: grad_norm < grad_tol && feas_norm < feas_tol
+outer iter: 6, xk: 1.000000 
+xk: 1.000000 
+xk: 1.000000 
+xk: 0.750000 
+xk: 0.750000 
+xk: 1.000000 
+xk: 1.250000 
+xk: 1.250000 
+xk: 1.000000 
+xk: 1.000000 
+xk: 1.000000 
+xk: 1.000000 
+xk: -0.500000 
+xk: 0.500000 
+xk: 0.250000 
+xk: 2.250000 
+xk: 0.500000 
+xk: 1.500000 
+xk: -0.500000 
+xk: 0.500000 
+xk: 0.250000 
+xk: 2.250000 
+xk: 0.500000 
+xk: 1.500000 
+f: 0.125000, c: 0.000000, c: 0.000000, c: -0.000000, c: -0.000000, c: -0.000000, c: -0.000000, c: -0.000000, c: 0.000000, c: 0.000000, grad_norm : 1.757049e-13, feas_norm: 3.379340e-14 

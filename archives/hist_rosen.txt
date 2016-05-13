@@ -1,0 +1,15 @@
+krylov_tolerance : 1.000000e-02,  des_tol : 1.000000e-06
+initial grad_norm : 4.000000e+00,  target grad_norm : 4.000000e-06
+initial feas_norm : 1.000000e+00,  target feas_norm : 1.000000e-06
+-------------------------------------------------------------
+nonlinear iteration : 1
+current obj : 4.000000e+00, grad_norm : 4.000000e+00, feas_norm: 1.000000e+00
+lambda: 0.000000, krylov_tol : 9.500000e-03 
+-------------------------------------------------------------
+nonlinear iteration : 2
+current obj : 3.545124e+00, grad_norm : 2.959959e+00, feas_norm: 3.864928e-01
+lambda: -9.389567, krylov_tol : 8.083320e-03 
+-------------------------------------------------------------
+nonlinear iteration : 3
+current obj : 3.214382e+00, grad_norm : 4.280849e+00, feas_norm: 0.000000e+00
+lambda: NaN, krylov_tol : 9.500000e-03 

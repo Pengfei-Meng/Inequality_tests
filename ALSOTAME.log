@@ -1,0 +1,36 @@
+krylov_tolerance : 1.000000e-02,  des_tol : 1.000000e-06
+initial grad_norm : 2.236068e+00,  target grad_norm : 2.236068e-06
+initial feas_norm : 8.414710e-01,  target feas_norm : 8.414710e-07
+-------------------------------------------------------------
+nonlinear iteration : 1
+current obj : 1.000000e+00, grad_norm : 2.236068e+00, feas_norm: 8.414710e-01
+krylov_tol : 9.500000e-03 
+-------------------------------------------------------------
+nonlinear iteration : 2
+current obj : 3.490909e-01, grad_norm : 7.805911e-01, feas_norm: 2.888954e-01
+krylov_tol : 5.607258e-03 
+-------------------------------------------------------------
+nonlinear iteration : 3
+current obj : 1.608089e-01, grad_norm : 3.595796e-01, feas_norm: 1.085117e-02
+krylov_tol : 3.686358e-03 
+-------------------------------------------------------------
+nonlinear iteration : 4
+current obj : 1.147205e-01, grad_norm : 2.565228e-01, feas_norm: 3.207005e-04
+krylov_tol : 3.112894e-03 
+-------------------------------------------------------------
+nonlinear iteration : 5
+current obj : 8.059146e-02, grad_norm : 1.802080e-01, feas_norm: 1.834031e-02
+krylov_tol : 2.615815e-03 
+-------------------------------------------------------------
+nonlinear iteration : 6
+current obj : 8.208473e-02, grad_norm : 2.996582e-05, feas_norm: 2.321320e-06
+krylov_tol : 7.088957e-02 
+-------------------------------------------------------------
+nonlinear iteration : 7
+current obj : 8.208500e-02, grad_norm : 8.899637e-12, feas_norm: 3.866635e-11
+
+-------------------------------------------------------------
+optimization loop terminated because: grad_norm < grad_tol && feas_norm < feas_tol
+outer iter: 7, xk: 0.500000 
+xk: 1.500000 
+f: 0.082085, c: 0.000000, grad_norm : 8.899637e-12, feas_norm: 3.866635e-11 

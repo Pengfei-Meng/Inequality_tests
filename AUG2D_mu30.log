@@ -1,0 +1,415 @@
+krylov_tolerance : 1.000000e-02,  des_tol : 1.000000e-06
+initial grad_norm : 1.341641e+01,  target grad_norm : 1.341641e-05
+initial feas_norm : 1.000000e+01,  target feas_norm : 1.000000e-05
+-------------------------------------------------------------
+nonlinear iteration : 1
+current obj : 9.000000e+01, grad_norm : 1.341641e+01, feas_norm: 1.000000e+01
+mu : 30.000000, 
+norm(lambda, Inf): 0.000000  
+krylov_tol : 9.500000e-03 
+-------------------------------------------------------------
+nonlinear iteration : 2
+current obj : 8.920829e+01, grad_norm : 1.995742e+01, feas_norm: 9.722176e+00
+mu : 30.000000, 
+norm(lambda, Inf): 5.784769  
+krylov_tol : 9.500000e-03 
+-------------------------------------------------------------
+nonlinear iteration : 3
+current obj : 8.844115e+01, grad_norm : 1.983183e+01, feas_norm: 9.442509e+00
+mu : 30.000000, 
+norm(lambda, Inf): 5.770592  
+krylov_tol : 9.500000e-03 
+-------------------------------------------------------------
+nonlinear iteration : 4
+current obj : 8.763845e+01, grad_norm : 1.971120e+01, feas_norm: 9.175058e+00
+mu : 30.000000, 
+norm(lambda, Inf): 5.773597  
+krylov_tol : 9.500000e-03 
+-------------------------------------------------------------
+nonlinear iteration : 5
+current obj : 8.681593e+01, grad_norm : 1.956721e+01, feas_norm: 8.918063e+00
+mu : 30.000000, 
+norm(lambda, Inf): 5.773893  
+krylov_tol : 9.500000e-03 
+-------------------------------------------------------------
+nonlinear iteration : 6
+current obj : 8.598878e+01, grad_norm : 1.940344e+01, feas_norm: 8.670046e+00
+mu : 30.000000, 
+norm(lambda, Inf): 5.774852  
+krylov_tol : 9.500000e-03 
+-------------------------------------------------------------
+nonlinear iteration : 7
+current obj : 8.517230e+01, grad_norm : 1.922097e+01, feas_norm: 8.429760e+00
+mu : 30.000000, 
+norm(lambda, Inf): 5.775464  
+krylov_tol : 9.500000e-03 
+-------------------------------------------------------------
+nonlinear iteration : 8
+current obj : 8.434044e+01, grad_norm : 1.903868e+01, feas_norm: 8.195825e+00
+mu : 30.000000, 
+norm(lambda, Inf): 5.781357  
+krylov_tol : 9.500000e-03 
+-------------------------------------------------------------
+nonlinear iteration : 9
+current obj : 8.357168e+01, grad_norm : 1.882167e+01, feas_norm: 7.968057e+00
+mu : 30.000000, 
+norm(lambda, Inf): 5.779559  
+krylov_tol : 9.500000e-03 
+-------------------------------------------------------------
+nonlinear iteration : 10
+current obj : 8.285742e+01, grad_norm : 1.859409e+01, feas_norm: 7.745381e+00
+mu : 30.000000, 
+norm(lambda, Inf): 5.779516  
+krylov_tol : 9.500000e-03 
+-------------------------------------------------------------
+nonlinear iteration : 11
+current obj : 8.220050e+01, grad_norm : 1.835542e+01, feas_norm: 7.527105e+00
+mu : 30.000000, 
+norm(lambda, Inf): 5.780765  
+krylov_tol : 9.500000e-03 
+-------------------------------------------------------------
+nonlinear iteration : 12
+current obj : 8.162000e+01, grad_norm : 1.810557e+01, feas_norm: 7.312785e+00
+mu : 30.000000, 
+norm(lambda, Inf): 5.779718  
+krylov_tol : 9.500000e-03 
+-------------------------------------------------------------
+nonlinear iteration : 13
+current obj : 8.110985e+01, grad_norm : 1.784811e+01, feas_norm: 7.101861e+00
+mu : 30.000000, 
+norm(lambda, Inf): 5.781659  
+krylov_tol : 9.500000e-03 
+-------------------------------------------------------------
+nonlinear iteration : 14
+current obj : 8.069365e+01, grad_norm : 1.758118e+01, feas_norm: 6.893995e+00
+mu : 30.000000, 
+norm(lambda, Inf): 5.781174  
+krylov_tol : 9.500000e-03 
+-------------------------------------------------------------
+nonlinear iteration : 15
+current obj : 8.036438e+01, grad_norm : 1.730793e+01, feas_norm: 6.688859e+00
+mu : 30.000000, 
+norm(lambda, Inf): 5.780619  
+krylov_tol : 9.500000e-03 
+-------------------------------------------------------------
+nonlinear iteration : 16
+current obj : 8.018224e+01, grad_norm : 1.703866e+01, feas_norm: 6.484922e+00
+mu : 30.000000, 
+norm(lambda, Inf): 5.783606  
+krylov_tol : 9.500000e-03 
+-------------------------------------------------------------
+nonlinear iteration : 17
+current obj : 8.009509e+01, grad_norm : 1.675633e+01, feas_norm: 6.283346e+00
+mu : 30.000000, 
+norm(lambda, Inf): 5.782623  
+krylov_tol : 9.500000e-03 
+-------------------------------------------------------------
+nonlinear iteration : 18
+current obj : 8.012796e+01, grad_norm : 1.647176e+01, feas_norm: 6.082887e+00
+mu : 30.000000, 
+norm(lambda, Inf): 5.782358  
+krylov_tol : 9.500000e-03 
+-------------------------------------------------------------
+nonlinear iteration : 19
+current obj : 8.026175e+01, grad_norm : 1.618065e+01, feas_norm: 5.884878e+00
+mu : 30.000000, 
+norm(lambda, Inf): 5.782152  
+krylov_tol : 9.500000e-03 
+-------------------------------------------------------------
+nonlinear iteration : 20
+current obj : 8.050865e+01, grad_norm : 1.588865e+01, feas_norm: 5.688132e+00
+mu : 30.000000, 
+norm(lambda, Inf): 5.783254  
+krylov_tol : 9.500000e-03 
+-------------------------------------------------------------
+nonlinear iteration : 21
+current obj : 8.095972e+01, grad_norm : 1.560504e+01, feas_norm: 5.488473e+00
+mu : 30.000000, 
+norm(lambda, Inf): 5.782061  
+krylov_tol : 9.445593e-03 
+-------------------------------------------------------------
+nonlinear iteration : 22
+current obj : 8.154578e+01, grad_norm : 1.531440e+01, feas_norm: 5.290405e+00
+mu : 30.000000, 
+norm(lambda, Inf): 5.782544  
+krylov_tol : 9.348123e-03 
+-------------------------------------------------------------
+nonlinear iteration : 23
+current obj : 8.231171e+01, grad_norm : 1.503618e+01, feas_norm: 5.089686e+00
+mu : 30.000000, 
+norm(lambda, Inf): 5.785167  
+krylov_tol : 9.252958e-03 
+-------------------------------------------------------------
+nonlinear iteration : 24
+current obj : 8.321238e+01, grad_norm : 1.474842e+01, feas_norm: 4.890778e+00
+mu : 30.000000, 
+norm(lambda, Inf): 5.784158  
+krylov_tol : 9.154495e-03 
+-------------------------------------------------------------
+nonlinear iteration : 25
+current obj : 8.423649e+01, grad_norm : 1.445884e+01, feas_norm: 4.693829e+00
+mu : 30.000000, 
+norm(lambda, Inf): 5.784720  
+krylov_tol : 9.054811e-03 
+-------------------------------------------------------------
+nonlinear iteration : 26
+current obj : 8.539204e+01, grad_norm : 1.417169e+01, feas_norm: 4.497679e+00
+mu : 30.000000, 
+norm(lambda, Inf): 5.784492  
+krylov_tol : 8.954979e-03 
+-------------------------------------------------------------
+nonlinear iteration : 27
+current obj : 8.666869e+01, grad_norm : 1.388427e+01, feas_norm: 4.302378e+00
+mu : 30.000000, 
+norm(lambda, Inf): 5.785176  
+krylov_tol : 8.854224e-03 
+-------------------------------------------------------------
+nonlinear iteration : 28
+current obj : 8.810159e+01, grad_norm : 1.360622e+01, feas_norm: 4.106325e+00
+mu : 30.000000, 
+norm(lambda, Inf): 5.787725  
+krylov_tol : 8.755223e-03 
+-------------------------------------------------------------
+nonlinear iteration : 29
+current obj : 8.965582e+01, grad_norm : 1.332430e+01, feas_norm: 3.911274e+00
+mu : 30.000000, 
+norm(lambda, Inf): 5.787759  
+krylov_tol : 8.654273e-03 
+-------------------------------------------------------------
+nonlinear iteration : 30
+current obj : 9.132774e+01, grad_norm : 1.304429e+01, feas_norm: 3.717104e+00
+mu : 30.000000, 
+norm(lambda, Inf): 5.787926  
+krylov_tol : 8.553051e-03 
+-------------------------------------------------------------
+nonlinear iteration : 31
+current obj : 9.311260e+01, grad_norm : 1.276632e+01, feas_norm: 3.523685e+00
+mu : 30.000000, 
+norm(lambda, Inf): 5.787936  
+krylov_tol : 8.451594e-03 
+-------------------------------------------------------------
+nonlinear iteration : 32
+current obj : 9.500510e+01, grad_norm : 1.249056e+01, feas_norm: 3.331016e+00
+mu : 30.000000, 
+norm(lambda, Inf): 5.788056  
+krylov_tol : 8.349963e-03 
+-------------------------------------------------------------
+nonlinear iteration : 33
+current obj : 9.699800e+01, grad_norm : 1.221690e+01, feas_norm: 3.139170e+00
+mu : 30.000000, 
+norm(lambda, Inf): 5.788158  
+krylov_tol : 8.248147e-03 
+-------------------------------------------------------------
+nonlinear iteration : 34
+current obj : 9.908309e+01, grad_norm : 1.194530e+01, feas_norm: 2.948249e+00
+mu : 30.000000, 
+norm(lambda, Inf): 5.788149  
+krylov_tol : 8.146159e-03 
+-------------------------------------------------------------
+nonlinear iteration : 35
+current obj : 1.012692e+02, grad_norm : 1.167768e+01, feas_norm: 2.758245e+00
+mu : 30.000000, 
+norm(lambda, Inf): 5.786455  
+krylov_tol : 8.044643e-03 
+-------------------------------------------------------------
+nonlinear iteration : 36
+current obj : 1.035261e+02, grad_norm : 1.140998e+01, feas_norm: 2.569357e+00
+mu : 30.000000, 
+norm(lambda, Inf): 5.786607  
+krylov_tol : 7.942314e-03 
+-------------------------------------------------------------
+nonlinear iteration : 37
+current obj : 1.058392e+02, grad_norm : 1.114338e+01, feas_norm: 2.381873e+00
+mu : 30.000000, 
+norm(lambda, Inf): 5.786451  
+krylov_tol : 7.839585e-03 
+-------------------------------------------------------------
+nonlinear iteration : 38
+current obj : 1.081943e+02, grad_norm : 1.087746e+01, feas_norm: 2.195993e+00
+mu : 30.000000, 
+norm(lambda, Inf): 5.786370  
+krylov_tol : 7.736335e-03 
+-------------------------------------------------------------
+nonlinear iteration : 39
+current obj : 1.105690e+02, grad_norm : 1.061149e+01, feas_norm: 2.012053e+00
+mu : 30.000000, 
+norm(lambda, Inf): 5.786372  
+krylov_tol : 7.632332e-03 
+-------------------------------------------------------------
+nonlinear iteration : 40
+current obj : 1.129392e+02, grad_norm : 1.034425e+01, feas_norm: 1.830529e+00
+mu : 30.000000, 
+norm(lambda, Inf): 5.786330  
+krylov_tol : 7.527164e-03 
+-------------------------------------------------------------
+nonlinear iteration : 41
+current obj : 1.152716e+02, grad_norm : 1.007425e+01, feas_norm: 1.652127e+00
+mu : 30.000000, 
+norm(lambda, Inf): 5.786312  
+krylov_tol : 7.420306e-03 
+-------------------------------------------------------------
+nonlinear iteration : 42
+current obj : 1.175668e+02, grad_norm : 9.800944e+00, feas_norm: 1.476800e+00
+mu : 30.000000, 
+norm(lambda, Inf): 5.787080  
+krylov_tol : 7.311484e-03 
+-------------------------------------------------------------
+nonlinear iteration : 43
+current obj : 1.197179e+02, grad_norm : 9.518870e+00, feas_norm: 1.307863e+00
+mu : 30.000000, 
+norm(lambda, Inf): 5.786833  
+krylov_tol : 7.198754e-03 
+-------------------------------------------------------------
+nonlinear iteration : 44
+current obj : 1.215281e+02, grad_norm : 9.220678e+00, feas_norm: 1.151542e+00
+mu : 30.000000, 
+norm(lambda, Inf): 5.786814  
+krylov_tol : 7.079390e-03 
+-------------------------------------------------------------
+nonlinear iteration : 45
+current obj : 1.222732e+02, grad_norm : 8.888467e+00, feas_norm: 1.022122e+00
+mu : 30.000000, 
+norm(lambda, Inf): 5.786581  
+krylov_tol : 6.946625e-03 
+-------------------------------------------------------------
+nonlinear iteration : 46
+current obj : 1.239850e+02, grad_norm : 8.586987e+00, feas_norm: 8.605681e-01
+mu : 30.000000, 
+norm(lambda, Inf): 5.786776  
+krylov_tol : 6.822437e-03 
+-------------------------------------------------------------
+nonlinear iteration : 47
+current obj : 1.254302e+02, grad_norm : 8.265646e+00, feas_norm: 7.121573e-01
+mu : 30.000000, 
+norm(lambda, Inf): 5.786662  
+krylov_tol : 6.689220e-03 
+-------------------------------------------------------------
+nonlinear iteration : 48
+current obj : 1.264549e+02, grad_norm : 7.922866e+00, feas_norm: 5.770634e-01
+mu : 30.000000, 
+norm(lambda, Inf): 5.786389  
+krylov_tol : 6.545604e-03 
+-------------------------------------------------------------
+nonlinear iteration : 49
+current obj : 1.269971e+02, grad_norm : 7.556629e+00, feas_norm: 4.596965e-01
+mu : 30.000000, 
+norm(lambda, Inf): 5.786402  
+krylov_tol : 6.389976e-03 
+-------------------------------------------------------------
+nonlinear iteration : 50
+current obj : 1.270198e+02, grad_norm : 7.168965e+00, feas_norm: 3.609294e-01
+mu : 30.000000, 
+norm(lambda, Inf): 5.786527  
+krylov_tol : 6.222103e-03 
+-------------------------------------------------------------
+nonlinear iteration : 51
+current obj : 1.265086e+02, grad_norm : 6.762561e+00, feas_norm: 2.820680e-01
+mu : 30.000000, 
+norm(lambda, Inf): 5.786532  
+krylov_tol : 6.041968e-03 
+-------------------------------------------------------------
+nonlinear iteration : 52
+current obj : 1.256350e+02, grad_norm : 6.343120e+00, feas_norm: 2.200738e-01
+mu : 30.000000, 
+norm(lambda, Inf): 5.786856  
+krylov_tol : 5.850812e-03 
+-------------------------------------------------------------
+nonlinear iteration : 53
+current obj : 1.244381e+02, grad_norm : 5.914484e+00, feas_norm: 1.730059e-01
+mu : 30.000000, 
+norm(lambda, Inf): 5.786848  
+krylov_tol : 5.649180e-03 
+-------------------------------------------------------------
+nonlinear iteration : 54
+current obj : 1.230154e+02, grad_norm : 5.479608e+00, feas_norm: 1.392893e-01
+mu : 30.000000, 
+norm(lambda, Inf): 5.786848  
+krylov_tol : 5.437246e-03 
+-------------------------------------------------------------
+nonlinear iteration : 55
+current obj : 1.214641e+02, grad_norm : 5.042180e+00, feas_norm: 1.113051e-01
+mu : 30.000000, 
+norm(lambda, Inf): 5.786907  
+krylov_tol : 5.215502e-03 
+-------------------------------------------------------------
+nonlinear iteration : 56
+current obj : 1.198869e+02, grad_norm : 4.602611e+00, feas_norm: 9.224185e-02
+mu : 30.000000, 
+norm(lambda, Inf): 5.786903  
+krylov_tol : 4.982873e-03 
+-------------------------------------------------------------
+nonlinear iteration : 57
+current obj : 1.183381e+02, grad_norm : 4.162533e+00, feas_norm: 7.836088e-02
+mu : 30.000000, 
+norm(lambda, Inf): 5.786902  
+krylov_tol : 4.738615e-03 
+-------------------------------------------------------------
+nonlinear iteration : 58
+current obj : 1.168612e+02, grad_norm : 3.723041e+00, feas_norm: 6.664634e-02
+mu : 30.000000, 
+norm(lambda, Inf): 5.786909  
+krylov_tol : 4.481442e-03 
+-------------------------------------------------------------
+nonlinear iteration : 59
+current obj : 1.155085e+02, grad_norm : 3.284671e+00, feas_norm: 5.706170e-02
+mu : 30.000000, 
+norm(lambda, Inf): 5.786907  
+krylov_tol : 4.209328e-03 
+-------------------------------------------------------------
+nonlinear iteration : 60
+current obj : 1.142995e+02, grad_norm : 2.848217e+00, feas_norm: 4.827112e-02
+mu : 30.000000, 
+norm(lambda, Inf): 5.786911  
+krylov_tol : 3.919691e-03 
+-------------------------------------------------------------
+nonlinear iteration : 61
+current obj : 1.132590e+02, grad_norm : 2.414412e+00, feas_norm: 4.049841e-02
+mu : 30.000000, 
+norm(lambda, Inf): 5.786909  
+krylov_tol : 3.608862e-03 
+-------------------------------------------------------------
+nonlinear iteration : 62
+current obj : 1.123970e+02, grad_norm : 1.984359e+00, feas_norm: 3.321786e-02
+mu : 30.000000, 
+norm(lambda, Inf): 5.786910  
+krylov_tol : 3.271709e-03 
+-------------------------------------------------------------
+nonlinear iteration : 63
+current obj : 1.117175e+02, grad_norm : 1.559728e+00, feas_norm: 2.594518e-02
+mu : 30.000000, 
+norm(lambda, Inf): 5.786910  
+krylov_tol : 2.900605e-03 
+-------------------------------------------------------------
+nonlinear iteration : 64
+current obj : 1.112301e+02, grad_norm : 1.143448e+00, feas_norm: 1.918928e-02
+mu : 30.000000, 
+norm(lambda, Inf): 5.786907  
+krylov_tol : 2.483550e-03 
+-------------------------------------------------------------
+nonlinear iteration : 65
+current obj : 1.109291e+02, grad_norm : 7.415601e-01, feas_norm: 1.255665e-02
+mu : 30.000000, 
+norm(lambda, Inf): 5.786908  
+krylov_tol : 2.000039e-03 
+-------------------------------------------------------------
+nonlinear iteration : 66
+current obj : 1.108000e+02, grad_norm : 3.683115e-01, feas_norm: 5.969265e-03
+mu : 30.000000, 
+norm(lambda, Inf): 5.786904  
+krylov_tol : 1.409517e-03 
+-------------------------------------------------------------
+nonlinear iteration : 67
+current obj : 1.107945e+02, grad_norm : 5.657303e-02, feas_norm: 8.124387e-04
+mu : 30.000000, 
+norm(lambda, Inf): 5.786903  
+krylov_tol : 5.524096e-04 
+-------------------------------------------------------------
+nonlinear iteration : 68
+current obj : 1.107991e+02, grad_norm : 1.251646e-06, feas_norm: 1.671317e-07
+mu : 30.000000, 
+norm(lambda, Inf): 5.786903  
+
+-------------------------------------------------------------
+optimization loop terminated because: grad_norm < grad_tol && feas_norm < feas_tol
+outer iter: 68, f: 110.799112, c: -0.000000, c: 0.000000, c: 0.000000, c: 0.000000, c: -0.000000, c: 0.000000, c: -0.000000, c: 0.000000, c: 0.000000, c: 0.000000, c: 0.000000, c: 0.000000, c: -0.000000, c: 0.000000, c: -0.000000, c: -0.000000, c: 0.000000, c: 0.000000, c: -0.000000, c: -0.000000, c: 0.000000, c: 0.000000, c: -0.000000, c: 0.000000, c: -0.000000, c: -0.000000, c: -0.000000, c: -0.000000, c: -0.000000, c: -0.000000, c: 0.000000, c: 0.000000, c: 0.000000, c: 0.000000, c: 0.000000, c: 0.000000, c: -0.000000, c: -0.000000, c: -0.000000, c: 0.000000, c: -0.000000, c: -0.000000, c: -0.000000, c: 0.000000, c: 0.000000, c: 0.000000, c: -0.000000, c: -0.000000, c: -0.000000, c: 0.000000, c: 0.000000, c: -0.000000, c: -0.000000, c: 0.000000, c: 0.000000, c: -0.000000, c: -0.000000, c: 0.000000, c: 0.000000, c: 0.000000, c: -0.000000, c: 0.000000, c: -0.000000, c: -0.000000, c: -0.000000, c: 0.000000, c: -0.000000, c: -0.000000, c: 0.000000, c: -0.000000, c: 0.000000, c: -0.000000, c: -0.000000, c: -0.000000, c: 0.000000, c: 0.000000, c: -0.000000, c: 0.000000, c: 0.000000, c: 0.000000, c: 0.000000, c: -0.000000, c: -0.000000, c: -0.000000, c: -0.000000, c: 0.000000, c: 0.000000, c: 0.000000, c: -0.000000, c: -0.000000, c: 0.000000, c: -0.000000, c: -0.000000, c: 0.000000, c: -0.000000, c: 0.000000, c: -0.000000, c: 0.000000, c: -0.000000, c: -0.000000, grad_norm : 1.251646e-06, feas_norm: 1.671317e-07 
+krylov_tol : 1.018306e+01 

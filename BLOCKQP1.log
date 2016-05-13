@@ -1,0 +1,63 @@
+krylov_tolerance : 1.000000e-02,  des_tol : 1.000000e-06
+initial grad_norm : 2.500000e+00,  target grad_norm : 2.500000e-06
+initial feas_norm : 4.743416e+00,  target feas_norm : 4.743416e-06
+-------------------------------------------------------------
+nonlinear iteration : 1
+current obj : 3.125000e+00, grad_norm : 2.500000e+00, feas_norm: 4.743416e+00
+mu : 10.000000, 
+norm(lambda, Inf): 0.000000  
+krylov_tol : 9.500000e-03 
+-------------------------------------------------------------
+nonlinear iteration : 2
+current obj : 3.194744e+00, grad_norm : 1.268907e+00, feas_norm: 4.658557e-02
+mu : 10.000000, 
+norm(lambda, Inf): 0.096154  
+krylov_tol : 4.623015e-03 
+-------------------------------------------------------------
+nonlinear iteration : 3
+current obj : 2.439996e+00, grad_norm : 2.689117e-01, feas_norm: 2.403302e-05
+mu : 10.000000, 
+norm(lambda, Inf): 0.096154  
+krylov_tol : 2.127497e-03 
+-------------------------------------------------------------
+nonlinear iteration : 4
+current obj : 2.403846e+00, grad_norm : 1.733045e-04, feas_norm: 3.012087e-15
+mu : 10.000000, 
+norm(lambda, Inf): 0.096146  
+krylov_tol : 1.370420e-02 
+-------------------------------------------------------------
+nonlinear iteration : 5
+current obj : 2.403845e+00, grad_norm : 3.326382e-07, feas_norm: 2.398688e-06
+mu : 10.000000, 
+norm(lambda, Inf): 0.096154  
+
+-------------------------------------------------------------
+optimization loop terminated because: grad_norm < grad_tol && feas_norm < feas_tol
+outer iter: 5, f: 2.403845, c: -0.000001, c: -0.000001, c: -0.000001, c: -0.000001, c: -0.000001, c: -0.000001, c: -0.000001, c: -0.000001, c: -0.000001, c: -0.000001, c: 0.730768, grad_norm : 3.326382e-07, feas_norm: 2.398688e-06 
+krylov_tol : 1.878629e+00 
+
+ xk: 0.096154, 
+ xk: 0.096154, 
+ xk: 0.096154, 
+ xk: 0.096154, 
+ xk: 0.096154, 
+ xk: 0.096154, 
+ xk: 0.096154, 
+ xk: 0.096154, 
+ xk: 0.096154, 
+ xk: 0.096154, 
+ xk: 0.096154, 
+ xk: 0.096154, 
+ xk: 0.096154, 
+ xk: 0.096154, 
+ xk: 0.096154, 
+ xk: 0.096154, 
+ xk: 0.096154, 
+ xk: 0.096154, 
+ xk: 0.096154, 
+ xk: 0.096154, 
+ xk: 0.961538, 
+ xk: 0.961538, 
+ xk: 0.961538, 
+ xk: 0.961538, 
+ xk: 0.961538, 

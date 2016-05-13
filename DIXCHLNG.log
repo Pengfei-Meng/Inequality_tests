@@ -1,0 +1,1223 @@
+krylov_tolerance : 1.000000e-02,  des_tol : 1.000000e-06
+initial grad_norm : 1.367585e+05,  target grad_norm : 1.367585e-01
+initial feas_norm : 2.000000e-09,  target feas_norm : 1.000000e-12
+-------------------------------------------------------------
+nonlinear iteration : 1
+current obj : 3.134654e+05, grad_norm : 1.367585e+05, feas_norm: 2.000000e-09
+lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 krylov_tol : 9.500000e-03 
+-------------------------------------------------------------
+nonlinear iteration : 2
+current obj : 2.807271e+05, grad_norm : 1.250549e+05, feas_norm: 1.400144e-01
+lambda: 52.089304 lambda: 308.125919 lambda: -822.737617 lambda: 898.502153 lambda: -363.126261 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 krylov_tol : 9.084411e-03 
+-------------------------------------------------------------
+nonlinear iteration : 3
+current obj : 2.507711e+05, grad_norm : 1.143240e+05, feas_norm: 2.806734e-01
+lambda: 90.352229 lambda: 387.763859 lambda: -1049.479014 lambda: 1161.240721 lambda: -477.171715 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 krylov_tol : 8.685904e-03 
+-------------------------------------------------------------
+nonlinear iteration : 4
+current obj : 2.234126e+05, grad_norm : 1.043666e+05, feas_norm: 3.871187e-01
+lambda: 124.807243 lambda: 388.833698 lambda: -1020.525326 lambda: 1193.573180 lambda: -496.284099 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 krylov_tol : 8.299027e-03 
+-------------------------------------------------------------
+nonlinear iteration : 5
+current obj : 1.986384e+05, grad_norm : 9.512370e+04, feas_norm: 2.831392e-01
+lambda: 161.840453 lambda: 347.163051 lambda: -910.637100 lambda: 1146.859073 lambda: -483.335491 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 krylov_tol : 7.923021e-03 
+-------------------------------------------------------------
+nonlinear iteration : 6
+current obj : 1.764730e+05, grad_norm : 8.657394e+04, feas_norm: 9.781909e-02
+lambda: 199.432687 lambda: 292.601517 lambda: -830.435141 lambda: 1113.347959 lambda: -485.150226 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 krylov_tol : 7.558576e-03 
+-------------------------------------------------------------
+nonlinear iteration : 7
+current obj : 1.564395e+05, grad_norm : 7.863368e+04, feas_norm: 2.517493e-02
+lambda: 209.871603 lambda: 268.926306 lambda: -827.685200 lambda: 1091.331190 lambda: -490.076606 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 krylov_tol : 7.203619e-03 
+-------------------------------------------------------------
+nonlinear iteration : 8
+current obj : 1.378903e+05, grad_norm : 7.115875e+04, feas_norm: 6.098543e-03
+lambda: 187.063475 lambda: 262.301583 lambda: -845.466189 lambda: 1050.318832 lambda: -476.796375 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 krylov_tol : 6.852682e-03 
+-------------------------------------------------------------
+nonlinear iteration : 9
+current obj : 1.210642e+05, grad_norm : 6.422176e+04, feas_norm: 5.408204e-03
+lambda: 171.944975 lambda: 238.035169 lambda: -817.543527 lambda: 1001.743461 lambda: -463.346148 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 krylov_tol : 6.510098e-03 
+-------------------------------------------------------------
+nonlinear iteration : 10
+current obj : 1.059025e+05, grad_norm : 5.780264e+04, feas_norm: 5.786040e-03
+lambda: 168.877367 lambda: 203.294705 lambda: -765.220881 lambda: 949.408265 lambda: -449.891900 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 krylov_tol : 6.176185e-03 
+-------------------------------------------------------------
+nonlinear iteration : 11
+current obj : 9.228477e+04, grad_norm : 5.187107e+04, feas_norm: 6.238969e-03
+lambda: 173.394098 lambda: 163.142749 lambda: -703.119056 lambda: 895.446295 lambda: -436.406721 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 krylov_tol : 5.850716e-03 
+-------------------------------------------------------------
+nonlinear iteration : 12
+current obj : 8.009331e+04, grad_norm : 4.639968e+04, feas_norm: 6.743686e-03
+lambda: 182.283326 lambda: 119.642292 lambda: -636.769734 lambda: 840.668261 lambda: -422.922670 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 krylov_tol : 5.533551e-03 
+-------------------------------------------------------------
+nonlinear iteration : 13
+current obj : 6.921660e+04, grad_norm : 4.136332e+04, feas_norm: 7.306091e-03
+lambda: 193.784803 lambda: 73.623967 lambda: -568.089955 lambda: 785.303087 lambda: -409.466054 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 krylov_tol : 5.224613e-03 
+-------------------------------------------------------------
+nonlinear iteration : 14
+current obj : 5.954917e+04, grad_norm : 3.673842e+04, feas_norm: 7.934339e-03
+lambda: 207.013667 lambda: 25.414646 lambda: -497.699048 lambda: 729.382607 lambda: -396.064289 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 krylov_tol : 4.923871e-03 
+-------------------------------------------------------------
+nonlinear iteration : 15
+current obj : 5.099127e+04, grad_norm : 3.250267e+04, feas_norm: 8.638309e-03
+lambda: 221.525633 lambda: -24.846112 lambda: -425.762694 lambda: 672.876985 lambda: -382.747878 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 krylov_tol : 4.631332e-03 
+-------------------------------------------------------------
+nonlinear iteration : 16
+current obj : 4.345460e+04, grad_norm : 2.863788e+04, feas_norm: 9.410131e-03
+lambda: 237.062093 lambda: -77.064716 lambda: -352.299242 lambda: 615.747949 lambda: -369.551806 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 krylov_tol : 4.347272e-03 
+-------------------------------------------------------------
+nonlinear iteration : 17
+current obj : 3.680106e+04, grad_norm : 2.509852e+04, feas_norm: 1.047113e-02
+lambda: 253.492103 lambda: -131.076833 lambda: -277.420165 lambda: 557.971609 lambda: -356.523489 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 krylov_tol : 4.069776e-03 
+-------------------------------------------------------------
+nonlinear iteration : 18
+current obj : 3.103883e+04, grad_norm : 2.191726e+04, feas_norm: 1.256557e-02
+lambda: 269.487014 lambda: -187.206490 lambda: -200.055337 lambda: 500.056165 lambda: -343.639204 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 krylov_tol : 3.803116e-03 
+-------------------------------------------------------------
+nonlinear iteration : 19
+current obj : 2.592610e+04, grad_norm : 1.904670e+04, feas_norm: 1.737367e-02
+lambda: 286.839501 lambda: -251.867757 lambda: -115.936593 lambda: 441.241584 lambda: -331.605063 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 krylov_tol : 3.545327e-03 
+-------------------------------------------------------------
+nonlinear iteration : 20
+current obj : 2.399519e+04, grad_norm : 1.764245e+04, feas_norm: 3.874226e-02
+lambda: 326.433393 lambda: -343.030013 lambda: -35.259173 lambda: 388.785953 lambda: -319.613644 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 krylov_tol : 3.412132e-03 
+-------------------------------------------------------------
+nonlinear iteration : 21
+current obj : 2.448355e+04, grad_norm : 1.790770e+04, feas_norm: 3.437768e-02
+lambda: 229.732351 lambda: -287.393292 lambda: 59.309724 lambda: 317.990938 lambda: -310.425899 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 krylov_tol : 3.437687e-03 
+-------------------------------------------------------------
+nonlinear iteration : 22
+current obj : 2.473109e+04, grad_norm : 1.813357e+04, feas_norm: 2.835510e-02
+lambda: 202.126718 lambda: -374.724033 lambda: 144.576526 lambda: 307.212081 lambda: -312.531166 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 krylov_tol : 3.459298e-03 
+-------------------------------------------------------------
+nonlinear iteration : 23
+current obj : 2.425429e+04, grad_norm : 1.781400e+04, feas_norm: 1.895841e-04
+lambda: 320.760802 lambda: -522.121523 lambda: 122.746104 lambda: 322.812754 lambda: -312.491920 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 krylov_tol : 3.428681e-03 
+-------------------------------------------------------------
+nonlinear iteration : 24
+current obj : 2.430669e+04, grad_norm : 1.759845e+04, feas_norm: 2.935561e-02
+lambda: 332.565315 lambda: -547.791706 lambda: 122.327520 lambda: 325.692132 lambda: -313.181977 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 krylov_tol : 3.407875e-03 
+-------------------------------------------------------------
+nonlinear iteration : 25
+current obj : 2.001904e+04, grad_norm : 1.508582e+04, feas_norm: 2.522214e-02
+lambda: 228.852327 lambda: -494.983448 lambda: 166.339224 lambda: 314.806602 lambda: -311.002042 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 krylov_tol : 3.155229e-03 
+-------------------------------------------------------------
+nonlinear iteration : 26
+current obj : 1.972735e+04, grad_norm : 1.495089e+04, feas_norm: 2.342025e-03
+lambda: 223.478953 lambda: -550.048376 lambda: 253.539527 lambda: 273.372930 lambda: -303.249939 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 krylov_tol : 3.141087e-03 
+-------------------------------------------------------------
+nonlinear iteration : 27
+current obj : 1.973623e+04, grad_norm : 1.497028e+04, feas_norm: 1.136735e-06
+lambda: 233.687718 lambda: -598.472241 lambda: 266.937531 lambda: 292.672591 lambda: -298.955477 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 krylov_tol : 3.143123e-03 
+-------------------------------------------------------------
+nonlinear iteration : 28
+current obj : 1.973625e+04, grad_norm : 1.497791e+04, feas_norm: 9.770772e-13
+lambda: 235.386532 lambda: -621.311207 lambda: 280.748199 lambda: 297.867994 lambda: -297.581356 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 krylov_tol : 3.143924e-03 
+-------------------------------------------------------------
+nonlinear iteration : 29
+current obj : 1.859379e+04, grad_norm : 1.438519e+04, feas_norm: 2.813647e-02
+lambda: 235.261010 lambda: -632.825161 lambda: 290.176870 lambda: 299.289148 lambda: -297.079585 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 krylov_tol : 3.081089e-03 
+-------------------------------------------------------------
+nonlinear iteration : 30
+current obj : 1.817793e+04, grad_norm : 1.418815e+04, feas_norm: 2.873072e-03
+lambda: 198.736538 lambda: -671.636503 lambda: 395.767927 lambda: 266.689622 lambda: -297.583001 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 krylov_tol : 3.059915e-03 
+-------------------------------------------------------------
+nonlinear iteration : 31
+current obj : 2.142006e+04, grad_norm : 1.615244e+04, feas_norm: 2.148377e-02
+lambda: 180.860993 lambda: -725.624647 lambda: 461.128253 lambda: 273.213769 lambda: -298.358065 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 krylov_tol : 3.264867e-03 
+-------------------------------------------------------------
+nonlinear iteration : 32
+current obj : 2.140040e+04, grad_norm : 1.615271e+04, feas_norm: 5.567278e-05
+lambda: 135.811064 lambda: -738.959156 lambda: 483.963776 lambda: 310.166341 lambda: -302.466105 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 krylov_tol : 3.264894e-03 
+-------------------------------------------------------------
+nonlinear iteration : 33
+current obj : 2.195374e+04, grad_norm : 1.664505e+04, feas_norm: 2.938056e-02
+lambda: 125.721258 lambda: -770.428572 lambda: 513.598357 lambda: 321.949394 lambda: -305.166524 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 krylov_tol : 3.314278e-03 
+-------------------------------------------------------------
+nonlinear iteration : 34
+current obj : 2.192582e+04, grad_norm : 1.688873e+04, feas_norm: 2.976601e-02
+lambda: 31.213843 lambda: -910.578718 lambda: 682.198133 lambda: 377.516617 lambda: -302.620166 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 krylov_tol : 3.338450e-03 
+-------------------------------------------------------------
+nonlinear iteration : 35
+current obj : 2.192001e+04, grad_norm : 1.701553e+04, feas_norm: 2.397425e-02
+lambda: 83.664975 lambda: -1033.508256 lambda: 731.130617 lambda: 406.981292 lambda: -300.655745 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 krylov_tol : 3.350959e-03 
+-------------------------------------------------------------
+nonlinear iteration : 36
+current obj : 2.179267e+04, grad_norm : 1.704319e+04, feas_norm: 1.748318e-03
+lambda: 50.295974 lambda: -1244.955412 lambda: 1001.099849 lambda: 397.586807 lambda: -306.807777 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 krylov_tol : 3.353682e-03 
+-------------------------------------------------------------
+nonlinear iteration : 37
+current obj : 2.192329e+04, grad_norm : 1.715333e+04, feas_norm: 1.644026e-02
+lambda: -2.070134 lambda: -1598.324221 lambda: 1410.929944 lambda: 404.537465 lambda: -309.988134 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 krylov_tol : 3.364501e-03 
+-------------------------------------------------------------
+nonlinear iteration : 38
+current obj : 1.914171e+04, grad_norm : 1.563922e+04, feas_norm: 3.252185e-02
+lambda: -40.949763 lambda: -1868.653493 lambda: 1811.611675 lambda: 326.902863 lambda: -314.207471 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 krylov_tol : 3.212580e-03 
+-------------------------------------------------------------
+nonlinear iteration : 39
+current obj : 1.956809e+04, grad_norm : 1.818609e+04, feas_norm: 8.622797e-05
+lambda: -412.713035 lambda: -5094.791469 lambda: 5415.487618 lambda: 371.297847 lambda: -309.836450 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 krylov_tol : 3.464305e-03 
+-------------------------------------------------------------
+nonlinear iteration : 40
+current obj : 1.957516e+04, grad_norm : 1.578944e+04, feas_norm: 5.160012e-07
+lambda: 218.595100 lambda: 3478.113384 lambda: -3682.922423 lambda: 246.369757 lambda: -310.938089 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 krylov_tol : 3.227973e-03 
+-------------------------------------------------------------
+nonlinear iteration : 41
+current obj : 2.148656e+04, grad_norm : 1.682537e+04, feas_norm: 2.272215e-02
+lambda: 176.208228 lambda: 920.240334 lambda: -1095.417299 lambda: 251.139017 lambda: -311.443648 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 krylov_tol : 3.332182e-03 
+-------------------------------------------------------------
+nonlinear iteration : 42
+current obj : 2.143587e+04, grad_norm : 1.646914e+04, feas_norm: 2.799179e-02
+lambda: 87.809620 lambda: 635.416177 lambda: -691.783702 lambda: 234.284980 lambda: -318.304287 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 krylov_tol : 3.296719e-03 
+-------------------------------------------------------------
+nonlinear iteration : 43
+current obj : 2.538154e+04, grad_norm : 1.884411e+04, feas_norm: 1.450690e-02
+lambda: -12.442888 lambda: 744.127299 lambda: -739.124195 lambda: 253.360110 lambda: -315.692103 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 krylov_tol : 3.526421e-03 
+-------------------------------------------------------------
+nonlinear iteration : 44
+current obj : 2.538388e+04, grad_norm : 1.888372e+04, feas_norm: 2.274857e-02
+lambda: -77.373373 lambda: 684.063437 lambda: -643.816359 lambda: 267.669286 lambda: -324.191178 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 krylov_tol : 3.530126e-03 
+-------------------------------------------------------------
+nonlinear iteration : 45
+current obj : 2.668704e+04, grad_norm : 1.974098e+04, feas_norm: 2.157875e-02
+lambda: -157.854751 lambda: 793.753793 lambda: -615.538313 lambda: 218.325001 lambda: -323.715285 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 krylov_tol : 3.609365e-03 
+-------------------------------------------------------------
+nonlinear iteration : 46
+current obj : 2.614539e+04, grad_norm : 1.936735e+04, feas_norm: 3.481179e-02
+lambda: -232.523518 lambda: 852.769776 lambda: -514.238491 lambda: 131.103821 lambda: -322.042356 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 krylov_tol : 3.575045e-03 
+-------------------------------------------------------------
+nonlinear iteration : 47
+current obj : 2.626087e+04, grad_norm : 1.938454e+04, feas_norm: 9.749846e-05
+lambda: -284.265144 lambda: 1175.780811 lambda: -835.189851 lambda: 158.791519 lambda: -314.833720 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 krylov_tol : 3.576631e-03 
+-------------------------------------------------------------
+nonlinear iteration : 48
+current obj : 2.629744e+04, grad_norm : 1.940255e+04, feas_norm: 2.978937e-06
+lambda: -298.986280 lambda: 1207.315372 lambda: -863.400734 lambda: 162.078957 lambda: -314.500949 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 krylov_tol : 3.578293e-03 
+-------------------------------------------------------------
+nonlinear iteration : 49
+current obj : 3.032748e+04, grad_norm : 2.184359e+04, feas_norm: 2.042743e-02
+lambda: -304.088124 lambda: 1213.414896 lambda: -868.369092 lambda: 162.848614 lambda: -314.419049 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 krylov_tol : 3.796719e-03 
+-------------------------------------------------------------
+nonlinear iteration : 50
+current obj : 2.987713e+04, grad_norm : 2.155465e+04, feas_norm: 4.351204e-02
+lambda: -351.066115 lambda: 1106.565815 lambda: -778.797744 lambda: 230.539886 lambda: -315.763766 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 krylov_tol : 3.771524e-03 
+-------------------------------------------------------------
+nonlinear iteration : 51
+current obj : 2.974659e+04, grad_norm : 2.143396e+04, feas_norm: 8.102976e-04
+lambda: -347.908808 lambda: 811.127845 lambda: -426.291236 lambda: 190.076888 lambda: -316.012380 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 krylov_tol : 3.760951e-03 
+-------------------------------------------------------------
+nonlinear iteration : 52
+current obj : 2.491863e+04, grad_norm : 1.847487e+04, feas_norm: 1.437525e-02
+lambda: -342.468192 lambda: 629.767330 lambda: -249.861496 lambda: 188.533826 lambda: -319.259013 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 krylov_tol : 3.491701e-03 
+-------------------------------------------------------------
+nonlinear iteration : 53
+current obj : 2.454960e+04, grad_norm : 1.824281e+04, feas_norm: 4.632631e-04
+lambda: -292.422047 lambda: 554.322652 lambda: -205.493370 lambda: 163.744088 lambda: -313.544739 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 krylov_tol : 3.469703e-03 
+-------------------------------------------------------------
+nonlinear iteration : 54
+current obj : 2.727894e+04, grad_norm : 1.968670e+04, feas_norm: 2.505038e-02
+lambda: -276.421183 lambda: 552.803675 lambda: -223.218518 lambda: 164.423453 lambda: -311.490220 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 krylov_tol : 3.604399e-03 
+-------------------------------------------------------------
+nonlinear iteration : 55
+current obj : 2.746711e+04, grad_norm : 2.001054e+04, feas_norm: 1.457372e-02
+lambda: -279.026610 lambda: 397.051645 lambda: -31.967812 lambda: 122.010442 lambda: -314.411117 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 krylov_tol : 3.633924e-03 
+-------------------------------------------------------------
+nonlinear iteration : 56
+current obj : 2.742327e+04, grad_norm : 2.004026e+04, feas_norm: 2.398787e-04
+lambda: -312.780134 lambda: 292.945715 lambda: 94.373361 lambda: 127.035830 lambda: -308.321359 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 krylov_tol : 3.636622e-03 
+-------------------------------------------------------------
+nonlinear iteration : 57
+current obj : 2.643911e+04, grad_norm : 1.917372e+04, feas_norm: 1.849098e-02
+lambda: -327.790619 lambda: 237.379318 lambda: 161.637493 lambda: 128.933359 lambda: -306.994547 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 krylov_tol : 3.557129e-03 
+-------------------------------------------------------------
+nonlinear iteration : 58
+current obj : 3.125306e+04, grad_norm : 2.213107e+04, feas_norm: 1.148908e-02
+lambda: -312.089684 lambda: 82.789005 lambda: 217.215233 lambda: 197.651183 lambda: -299.530448 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 krylov_tol : 3.821621e-03 
+-------------------------------------------------------------
+nonlinear iteration : 59
+current obj : 3.123891e+04, grad_norm : 2.251391e+04, feas_norm: 2.531483e-02
+lambda: -349.814861 lambda: 41.796825 lambda: 287.380915 lambda: 209.227957 lambda: -305.549894 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 krylov_tol : 3.854534e-03 
+-------------------------------------------------------------
+nonlinear iteration : 60
+current obj : 3.190819e+04, grad_norm : 2.317986e+04, feas_norm: 2.826800e-02
+lambda: -404.772519 lambda: 108.343026 lambda: 324.703597 lambda: 148.579739 lambda: -305.037649 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 krylov_tol : 3.911126e-03 
+-------------------------------------------------------------
+nonlinear iteration : 61
+current obj : 3.313784e+04, grad_norm : 2.452418e+04, feas_norm: 1.927051e-02
+lambda: -415.527542 lambda: 184.908892 lambda: 380.278665 lambda: 26.202796 lambda: -303.691025 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 krylov_tol : 4.022941e-03 
+-------------------------------------------------------------
+nonlinear iteration : 62
+current obj : 3.371975e+04, grad_norm : 2.518997e+04, feas_norm: 2.060904e-02
+lambda: -425.622323 lambda: 210.066068 lambda: 328.660416 lambda: 90.125627 lambda: -302.211063 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 krylov_tol : 4.077183e-03 
+-------------------------------------------------------------
+nonlinear iteration : 63
+current obj : 3.397645e+04, grad_norm : 2.579400e+04, feas_norm: 1.702571e-03
+lambda: -470.344629 lambda: 225.096121 lambda: 277.091997 lambda: 159.584216 lambda: -296.716083 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 krylov_tol : 4.125777e-03 
+-------------------------------------------------------------
+nonlinear iteration : 64
+current obj : 3.375394e+04, grad_norm : 2.569860e+04, feas_norm: 2.113255e-02
+lambda: -491.792394 lambda: 263.795298 lambda: 247.941347 lambda: 173.957471 lambda: -294.263436 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 krylov_tol : 4.118140e-03 
+-------------------------------------------------------------
+nonlinear iteration : 65
+current obj : 3.373569e+04, grad_norm : 2.467024e+04, feas_norm: 3.292653e-02
+lambda: -507.758001 lambda: 382.093766 lambda: 237.645064 lambda: 66.228776 lambda: -291.231329 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 krylov_tol : 4.034903e-03 
+-------------------------------------------------------------
+nonlinear iteration : 66
+current obj : 3.397691e+04, grad_norm : 2.546309e+04, feas_norm: 1.133113e-02
+lambda: -493.549213 lambda: 319.860840 lambda: 271.513939 lambda: 51.274011 lambda: -289.835942 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 krylov_tol : 4.099227e-03 
+-------------------------------------------------------------
+nonlinear iteration : 67
+current obj : 3.803222e+04, grad_norm : 2.937457e+04, feas_norm: 1.449106e-02
+lambda: -503.288085 lambda: 341.282842 lambda: 284.366020 lambda: 7.442149 lambda: -282.887513 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 krylov_tol : 4.402833e-03 
+-------------------------------------------------------------
+nonlinear iteration : 68
+current obj : 3.802429e+04, grad_norm : 2.935809e+04, feas_norm: 1.147436e-05
+lambda: -547.374556 lambda: 427.090142 lambda: 267.276955 lambda: -10.105504 lambda: -278.466857 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 krylov_tol : 4.401598e-03 
+-------------------------------------------------------------
+nonlinear iteration : 69
+current obj : 3.901477e+04, grad_norm : 2.966579e+04, feas_norm: 1.369386e-02
+lambda: -561.220501 lambda: 461.649551 lambda: 251.911856 lambda: -12.998616 lambda: -277.472895 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 krylov_tol : 4.424604e-03 
+-------------------------------------------------------------
+nonlinear iteration : 70
+current obj : 4.591470e+04, grad_norm : 3.368082e+04, feas_norm: 1.233599e-02
+lambda: -591.210479 lambda: 488.340059 lambda: 225.038984 lambda: -14.908065 lambda: -272.659625 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 krylov_tol : 4.714523e-03 
+-------------------------------------------------------------
+nonlinear iteration : 71
+current obj : 4.544608e+04, grad_norm : 3.300039e+04, feas_norm: 1.589997e-02
+lambda: -636.650493 lambda: 500.038197 lambda: 232.897259 lambda: -5.204528 lambda: -275.457805 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 krylov_tol : 4.666658e-03 
+-------------------------------------------------------------
+nonlinear iteration : 72
+current obj : 4.535871e+04, grad_norm : 3.291938e+04, feas_norm: 5.713911e-05
+lambda: -625.200115 lambda: 501.569400 lambda: 293.862459 lambda: -66.330315 lambda: -282.360217 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 krylov_tol : 4.660927e-03 
+-------------------------------------------------------------
+nonlinear iteration : 73
+current obj : 5.280234e+04, grad_norm : 3.867663e+04, feas_norm: 1.242244e-02
+lambda: -620.921753 lambda: 503.596068 lambda: 299.348335 lambda: -73.742693 lambda: -285.622327 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 krylov_tol : 5.052086e-03 
+-------------------------------------------------------------
+nonlinear iteration : 74
+current obj : 5.262192e+04, grad_norm : 3.867841e+04, feas_norm: 2.252006e-02
+lambda: -664.665186 lambda: 567.979050 lambda: 305.657344 lambda: -91.591666 lambda: -286.552475 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 krylov_tol : 5.052203e-03 
+-------------------------------------------------------------
+nonlinear iteration : 75
+current obj : 5.172201e+04, grad_norm : 3.824645e+04, feas_norm: 4.013816e-04
+lambda: -677.900755 lambda: 606.273836 lambda: 263.191437 lambda: -51.515960 lambda: -292.221526 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 krylov_tol : 5.023912e-03 
+-------------------------------------------------------------
+nonlinear iteration : 76
+current obj : 5.482956e+04, grad_norm : 4.169773e+04, feas_norm: 1.282929e-02
+lambda: -678.243297 lambda: 634.541942 lambda: 245.286230 lambda: -52.587332 lambda: -294.355045 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 krylov_tol : 5.245690e-03 
+-------------------------------------------------------------
+nonlinear iteration : 77
+current obj : 5.654799e+04, grad_norm : 4.256735e+04, feas_norm: 1.255998e-02
+lambda: -699.194204 lambda: 725.425865 lambda: 146.665728 lambda: -15.203418 lambda: -288.755493 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 krylov_tol : 5.300108e-03 
+-------------------------------------------------------------
+nonlinear iteration : 78
+current obj : 5.815896e+04, grad_norm : 4.374934e+04, feas_norm: 4.866849e-04
+lambda: -692.483506 lambda: 787.762576 lambda: 174.167342 lambda: -86.271478 lambda: -294.265334 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 krylov_tol : 5.373189e-03 
+-------------------------------------------------------------
+nonlinear iteration : 79
+current obj : 6.763257e+04, grad_norm : 4.971488e+04, feas_norm: 1.300012e-02
+lambda: -695.935347 lambda: 839.363871 lambda: 140.819457 lambda: -89.905563 lambda: -297.267308 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 krylov_tol : 5.727823e-03 
+-------------------------------------------------------------
+nonlinear iteration : 80
+current obj : 6.533973e+04, grad_norm : 4.818156e+04, feas_norm: 4.453372e-04
+lambda: -741.656473 lambda: 853.302702 lambda: 151.744901 lambda: -84.651218 lambda: -296.850939 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 krylov_tol : 5.638802e-03 
+-------------------------------------------------------------
+nonlinear iteration : 81
+current obj : 7.375156e+04, grad_norm : 5.497001e+04, feas_norm: 1.496718e-02
+lambda: -750.803313 lambda: 857.535863 lambda: 154.425643 lambda: -88.157428 lambda: -297.019467 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 krylov_tol : 6.022951e-03 
+-------------------------------------------------------------
+nonlinear iteration : 82
+current obj : 7.106515e+04, grad_norm : 5.318205e+04, feas_norm: 3.885128e-04
+lambda: -779.055949 lambda: 994.925860 lambda: 62.219715 lambda: -97.227319 lambda: -293.070236 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 krylov_tol : 5.924190e-03 
+-------------------------------------------------------------
+nonlinear iteration : 83
+current obj : 7.711577e+04, grad_norm : 5.877335e+04, feas_norm: 1.097688e-02
+lambda: -779.239668 lambda: 1059.897686 lambda: 1.358980 lambda: -97.355648 lambda: -292.436602 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 krylov_tol : 6.227828e-03 
+-------------------------------------------------------------
+nonlinear iteration : 84
+current obj : 7.695326e+04, grad_norm : 5.866120e+04, feas_norm: 3.598546e-02
+lambda: -776.148828 lambda: 1181.965091 lambda: -87.977090 lambda: -106.425339 lambda: -287.428764 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 krylov_tol : 6.221884e-03 
+-------------------------------------------------------------
+nonlinear iteration : 85
+current obj : 7.829690e+04, grad_norm : 5.942946e+04, feas_norm: 1.875915e-04
+lambda: -767.519591 lambda: 1211.094801 lambda: -45.230412 lambda: -174.438279 lambda: -283.645491 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 krylov_tol : 6.262494e-03 
+-------------------------------------------------------------
+nonlinear iteration : 86
+current obj : 7.669904e+04, grad_norm : 5.787792e+04, feas_norm: 2.433067e-02
+lambda: -769.717247 lambda: 1237.490093 lambda: -71.070017 lambda: -168.905800 lambda: -285.756284 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 krylov_tol : 6.180205e-03 
+-------------------------------------------------------------
+nonlinear iteration : 87
+current obj : 7.661710e+04, grad_norm : 5.774988e+04, feas_norm: 6.612764e-05
+lambda: -761.454367 lambda: 1432.746283 lambda: -282.111924 lambda: -147.120929 lambda: -292.635740 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 krylov_tol : 6.173365e-03 
+-------------------------------------------------------------
+nonlinear iteration : 88
+current obj : 7.645995e+04, grad_norm : 5.853231e+04, feas_norm: 1.709712e-02
+lambda: -758.638597 lambda: 1507.452852 lambda: -355.638062 lambda: -147.191364 lambda: -296.484935 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 krylov_tol : 6.215044e-03 
+-------------------------------------------------------------
+nonlinear iteration : 89
+current obj : 7.778698e+04, grad_norm : 5.995539e+04, feas_norm: 1.814315e-03
+lambda: -713.890761 lambda: 1599.024338 lambda: -444.221376 lambda: -145.165264 lambda: -298.879121 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 krylov_tol : 6.290143e-03 
+-------------------------------------------------------------
+nonlinear iteration : 90
+current obj : 7.779730e+04, grad_norm : 5.996566e+04, feas_norm: 1.781463e-07
+lambda: -689.303838 lambda: 1636.027779 lambda: -476.840612 lambda: -141.955503 lambda: -298.546359 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 krylov_tol : 6.290682e-03 
+-------------------------------------------------------------
+nonlinear iteration : 91
+current obj : 7.843382e+04, grad_norm : 5.942104e+04, feas_norm: 3.781532e-02
+lambda: -679.854942 lambda: 1645.806831 lambda: -483.315103 lambda: -142.680308 lambda: -298.506520 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 krylov_tol : 6.262050e-03 
+-------------------------------------------------------------
+nonlinear iteration : 92
+current obj : 7.729094e+04, grad_norm : 5.889583e+04, feas_norm: 6.648711e-04
+lambda: -700.819923 lambda: 1427.215933 lambda: -221.962330 lambda: -184.673745 lambda: -297.071648 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 krylov_tol : 6.234314e-03 
+-------------------------------------------------------------
+nonlinear iteration : 93
+current obj : 7.780441e+04, grad_norm : 6.060127e+04, feas_norm: 6.707104e-03
+lambda: -704.312940 lambda: 1367.912914 lambda: -182.750887 lambda: -171.759650 lambda: -298.018444 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 krylov_tol : 6.323933e-03 
+-------------------------------------------------------------
+nonlinear iteration : 94
+current obj : 7.805602e+04, grad_norm : 6.076818e+04, feas_norm: 1.861396e-05
+lambda: -706.239657 lambda: 1348.522755 lambda: -184.759718 lambda: -153.657156 lambda: -288.248427 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 krylov_tol : 6.332636e-03 
+-------------------------------------------------------------
+nonlinear iteration : 95
+current obj : 7.805646e+04, grad_norm : 6.076926e+04, feas_norm: 4.898101e-11
+lambda: -706.878931 lambda: 1335.848145 lambda: -169.449330 lambda: -157.681544 lambda: -284.764786 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 krylov_tol : 6.332692e-03 
+-------------------------------------------------------------
+nonlinear iteration : 96
+current obj : 8.017932e+04, grad_norm : 6.153897e+04, feas_norm: 3.397070e-02
+lambda: -707.134045 lambda: 1330.611238 lambda: -163.734693 lambda: -158.668499 lambda: -283.471724 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 krylov_tol : 6.372671e-03 
+-------------------------------------------------------------
+nonlinear iteration : 97
+current obj : 8.185704e+04, grad_norm : 6.221872e+04, feas_norm: 3.964069e-03
+lambda: -730.537477 lambda: 1291.001991 lambda: -158.737350 lambda: -123.421087 lambda: -280.497975 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 krylov_tol : 6.407771e-03 
+-------------------------------------------------------------
+nonlinear iteration : 98
+current obj : 7.703098e+04, grad_norm : 5.854249e+04, feas_norm: 1.396597e-02
+lambda: -763.169287 lambda: 1286.357511 lambda: -169.407746 lambda: -108.431175 lambda: -280.651465 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 krylov_tol : 6.215585e-03 
+-------------------------------------------------------------
+nonlinear iteration : 99
+current obj : 8.865371e+04, grad_norm : 6.654938e+04, feas_norm: 1.319001e-02
+lambda: -792.323712 lambda: 1371.956080 lambda: -327.717810 lambda: -52.209946 lambda: -276.973778 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 krylov_tol : 6.627022e-03 
+-------------------------------------------------------------
+nonlinear iteration : 100
+current obj : 8.817791e+04, grad_norm : 6.459725e+04, feas_norm: 1.584104e-02
+lambda: -815.998815 lambda: 1330.109957 lambda: -244.173003 lambda: -70.728865 lambda: -275.228445 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 krylov_tol : 6.529102e-03 
+-------------------------------------------------------------
+nonlinear iteration : 101
+current obj : 8.541597e+04, grad_norm : 6.366640e+04, feas_norm: 2.783319e-02
+lambda: -848.132273 lambda: 1289.678915 lambda: -263.475627 lambda: -13.802071 lambda: -276.587219 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 krylov_tol : 6.481889e-03 
+-------------------------------------------------------------
+nonlinear iteration : 102
+current obj : 8.540648e+04, grad_norm : 6.318803e+04, feas_norm: 1.973706e-03
+lambda: -826.426914 lambda: 1164.308488 lambda: -114.496424 lambda: -45.157984 lambda: -274.614017 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 krylov_tol : 6.457491e-03 
+-------------------------------------------------------------
+nonlinear iteration : 103
+current obj : 8.536665e+04, grad_norm : 6.317433e+04, feas_norm: 2.567639e-06
+lambda: -828.814977 lambda: 1099.389922 lambda: -20.764282 lambda: -80.705214 lambda: -275.670859 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 krylov_tol : 6.456791e-03 
+-------------------------------------------------------------
+nonlinear iteration : 104
+current obj : 8.536647e+04, grad_norm : 6.317506e+04, feas_norm: 2.393550e-12
+lambda: -829.972459 lambda: 1071.981735 lambda: 5.939778 lambda: -81.778463 lambda: -276.153386 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 krylov_tol : 6.456828e-03 
+-------------------------------------------------------------
+nonlinear iteration : 105
+current obj : 8.510271e+04, grad_norm : 6.270059e+04, feas_norm: 1.084178e-02
+lambda: -830.523652 lambda: 1059.604969 lambda: 17.472957 lambda: -81.400328 lambda: -276.334258 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 krylov_tol : 6.432536e-03 
+-------------------------------------------------------------
+nonlinear iteration : 106
+current obj : 9.420549e+04, grad_norm : 6.838022e+04, feas_norm: 2.209863e-02
+lambda: -847.000555 lambda: 1042.801021 lambda: -17.414695 lambda: -41.004655 lambda: -269.881382 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 krylov_tol : 6.717562e-03 
+-------------------------------------------------------------
+nonlinear iteration : 107
+current obj : 1.014695e+05, grad_norm : 7.172077e+04, feas_norm: 8.573255e-03
+lambda: -885.397810 lambda: 1040.994034 lambda: 102.052774 lambda: -145.639599 lambda: -263.390252 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 krylov_tol : 6.879690e-03 
+-------------------------------------------------------------
+nonlinear iteration : 108
+current obj : 1.022554e+05, grad_norm : 7.171013e+04, feas_norm: 2.346755e-02
+lambda: -917.611465 lambda: 1045.385080 lambda: 139.295691 lambda: -164.309408 lambda: -268.772977 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 krylov_tol : 6.879180e-03 
+-------------------------------------------------------------
+nonlinear iteration : 109
+current obj : 1.016088e+05, grad_norm : 7.126199e+04, feas_norm: 1.239466e-04
+lambda: -922.578367 lambda: 1032.028749 lambda: 89.604322 lambda: -95.883183 lambda: -271.432003 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 krylov_tol : 6.857651e-03 
+-------------------------------------------------------------
+nonlinear iteration : 110
+current obj : 1.028107e+05, grad_norm : 7.268548e+04, feas_norm: 3.409812e-02
+lambda: -924.389838 lambda: 1027.494453 lambda: 77.630529 lambda: -79.765979 lambda: -274.144374 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 krylov_tol : 6.925805e-03 
+-------------------------------------------------------------
+nonlinear iteration : 111
+current obj : 1.033045e+05, grad_norm : 7.275750e+04, feas_norm: 3.276831e-02
+lambda: -912.318003 lambda: 1056.183202 lambda: -130.100916 lambda: 108.502564 lambda: -272.806997 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 krylov_tol : 6.929235e-03 
+-------------------------------------------------------------
+nonlinear iteration : 112
+current obj : 1.028830e+05, grad_norm : 7.278637e+04, feas_norm: 4.955921e-03
+lambda: -896.653559 lambda: 1033.286982 lambda: -9.121006 lambda: -1.789741 lambda: -271.200566 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 krylov_tol : 6.930610e-03 
+-------------------------------------------------------------
+nonlinear iteration : 113
+current obj : 1.025720e+05, grad_norm : 7.259137e+04, feas_norm: 1.812561e-06
+lambda: -893.115100 lambda: 1034.707826 lambda: -56.011347 lambda: 43.941693 lambda: -272.336295 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 krylov_tol : 6.921320e-03 
+-------------------------------------------------------------
+nonlinear iteration : 114
+current obj : 1.186409e+05, grad_norm : 8.314895e+04, feas_norm: 6.116828e-03
+lambda: -891.420991 lambda: 1034.081029 lambda: -63.119488 lambda: 51.175057 lambda: -273.143491 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 krylov_tol : 7.407554e-03 
+-------------------------------------------------------------
+nonlinear iteration : 115
+current obj : 1.183607e+05, grad_norm : 8.302031e+04, feas_norm: 1.863027e-05
+lambda: -917.986648 lambda: 1068.454156 lambda: -52.840096 lambda: 38.478842 lambda: -269.698099 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 krylov_tol : 7.401821e-03 
+-------------------------------------------------------------
+nonlinear iteration : 116
+current obj : 1.183607e+05, grad_norm : 8.302018e+04, feas_norm: 5.898631e-11
+lambda: -925.228801 lambda: 1079.354003 lambda: -46.806333 lambda: 31.563328 lambda: -268.518624 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 krylov_tol : 7.401816e-03 
+-------------------------------------------------------------
+nonlinear iteration : 117
+current obj : 1.112897e+05, grad_norm : 7.810614e+04, feas_norm: 2.537274e-02
+lambda: -927.574079 lambda: 1083.034649 lambda: -45.934874 lambda: 30.263823 lambda: -268.053885 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 krylov_tol : 7.179414e-03 
+-------------------------------------------------------------
+nonlinear iteration : 118
+current obj : 1.130427e+05, grad_norm : 7.860986e+04, feas_norm: 2.177470e-02
+lambda: -901.170243 lambda: 1080.222712 lambda: -156.874112 lambda: 123.430086 lambda: -267.544744 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 krylov_tol : 7.202528e-03 
+-------------------------------------------------------------
+nonlinear iteration : 119
+current obj : 1.000456e+05, grad_norm : 7.170327e+04, feas_norm: 9.381391e-03
+lambda: -874.270659 lambda: 1084.503984 lambda: -97.521196 lambda: 46.656525 lambda: -269.335431 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 krylov_tol : 6.878851e-03 
+-------------------------------------------------------------
+nonlinear iteration : 120
+current obj : 9.274866e+04, grad_norm : 6.675635e+04, feas_norm: 2.809292e-03
+lambda: -843.472986 lambda: 1057.520549 lambda: -94.013010 lambda: 42.103300 lambda: -265.905711 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 krylov_tol : 6.637319e-03 
+-------------------------------------------------------------
+nonlinear iteration : 121
+current obj : 9.250769e+04, grad_norm : 6.656460e+04, feas_norm: 2.276981e-02
+lambda: -811.357094 lambda: 1031.305925 lambda: -80.932335 lambda: 23.802921 lambda: -265.367460 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 krylov_tol : 6.627780e-03 
+-------------------------------------------------------------
+nonlinear iteration : 122
+current obj : 9.225475e+04, grad_norm : 6.648342e+04, feas_norm: 6.775946e-05
+lambda: -804.419102 lambda: 1003.420987 lambda: 88.615335 lambda: -121.978242 lambda: -268.080083 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 krylov_tol : 6.623737e-03 
+-------------------------------------------------------------
+nonlinear iteration : 123
+current obj : 9.000168e+04, grad_norm : 6.342477e+04, feas_norm: 2.007744e-02
+lambda: -801.881796 lambda: 994.160675 lambda: 93.853415 lambda: -117.699569 lambda: -270.082702 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 krylov_tol : 6.469577e-03 
+-------------------------------------------------------------
+nonlinear iteration : 124
+current obj : 9.225781e+04, grad_norm : 6.430429e+04, feas_norm: 1.991091e-02
+lambda: -806.073560 lambda: 972.628442 lambda: 196.093692 lambda: -217.964527 lambda: -271.282351 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 krylov_tol : 6.514280e-03 
+-------------------------------------------------------------
+nonlinear iteration : 125
+current obj : 1.028091e+05, grad_norm : 7.234161e+04, feas_norm: 1.014208e-02
+lambda: -793.258824 lambda: 990.430449 lambda: 186.829866 lambda: -242.144138 lambda: -269.560083 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 krylov_tol : 6.909403e-03 
+-------------------------------------------------------------
+nonlinear iteration : 126
+current obj : 9.745501e+04, grad_norm : 6.882939e+04, feas_norm: 1.467349e-02
+lambda: -802.946446 lambda: 1023.351695 lambda: 199.424260 lambda: -255.004051 lambda: -268.817619 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 krylov_tol : 6.739588e-03 
+-------------------------------------------------------------
+nonlinear iteration : 127
+current obj : 1.056751e+05, grad_norm : 7.255934e+04, feas_norm: 1.485411e-02
+lambda: -784.045195 lambda: 1029.904714 lambda: 133.228167 lambda: -196.447831 lambda: -269.871419 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 krylov_tol : 6.919792e-03 
+-------------------------------------------------------------
+nonlinear iteration : 128
+current obj : 1.221541e+05, grad_norm : 8.177126e+04, feas_norm: 6.638120e-03
+lambda: -803.415892 lambda: 1063.377816 lambda: 70.137354 lambda: -165.991017 lambda: -268.106841 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 krylov_tol : 7.345930e-03 
+-------------------------------------------------------------
+nonlinear iteration : 129
+current obj : 1.219967e+05, grad_norm : 8.167548e+04, feas_norm: 4.613892e-06
+lambda: -840.787503 lambda: 1114.767105 lambda: 50.330474 lambda: -159.729771 lambda: -273.308576 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 krylov_tol : 7.341626e-03 
+-------------------------------------------------------------
+nonlinear iteration : 130
+current obj : 1.400198e+05, grad_norm : 9.157968e+04, feas_norm: 7.682134e-03
+lambda: -852.742335 lambda: 1132.627085 lambda: 40.373912 lambda: -155.249539 lambda: -275.472800 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 krylov_tol : 7.774026e-03 
+-------------------------------------------------------------
+nonlinear iteration : 131
+current obj : 1.363322e+05, grad_norm : 8.923268e+04, feas_norm: 1.397797e-02
+lambda: -903.056470 lambda: 1165.375925 lambda: 59.884135 lambda: -167.375055 lambda: -279.061162 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 krylov_tol : 7.673763e-03 
+-------------------------------------------------------------
+nonlinear iteration : 132
+current obj : 1.175721e+05, grad_norm : 7.925619e+04, feas_norm: 8.309588e-03
+lambda: -922.635508 lambda: 1172.006466 lambda: 111.647053 lambda: -229.683327 lambda: -272.450833 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 krylov_tol : 7.232077e-03 
+-------------------------------------------------------------
+nonlinear iteration : 133
+current obj : 1.300459e+05, grad_norm : 8.508926e+04, feas_norm: 1.702961e-02
+lambda: -889.166902 lambda: 1133.585684 lambda: 131.996989 lambda: -247.118675 lambda: -267.623909 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 krylov_tol : 7.493484e-03 
+-------------------------------------------------------------
+nonlinear iteration : 134
+current obj : 1.295582e+05, grad_norm : 8.319385e+04, feas_norm: 1.036939e-02
+lambda: -908.635259 lambda: 1155.657398 lambda: 59.654178 lambda: -194.218893 lambda: -265.311256 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 krylov_tol : 7.409553e-03 
+-------------------------------------------------------------
+nonlinear iteration : 135
+current obj : 1.183489e+05, grad_norm : 7.499570e+04, feas_norm: 7.263177e-03
+lambda: -929.505083 lambda: 1159.632632 lambda: 62.184095 lambda: -217.066196 lambda: -261.742461 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 krylov_tol : 7.035008e-03 
+-------------------------------------------------------------
+nonlinear iteration : 136
+current obj : 1.183508e+05, grad_norm : 7.500826e+04, feas_norm: 1.058532e-05
+lambda: -913.679440 lambda: 1135.372515 lambda: 38.699308 lambda: -208.311850 lambda: -264.001207 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 krylov_tol : 7.035597e-03 
+-------------------------------------------------------------
+nonlinear iteration : 137
+current obj : 1.183508e+05, grad_norm : 7.500629e+04, feas_norm: 2.769999e-11
+lambda: -908.127995 lambda: 1128.296493 lambda: 30.983350 lambda: -206.054568 lambda: -265.292718 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 krylov_tol : 7.035505e-03 
+-------------------------------------------------------------
+nonlinear iteration : 138
+current obj : 1.183508e+05, grad_norm : 7.500561e+04, feas_norm: 1.570092e-16
+lambda: -906.376845 lambda: 1126.189597 lambda: 28.494315 lambda: -205.545728 lambda: -265.789579 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 krylov_tol : 7.035473e-03 
+-------------------------------------------------------------
+nonlinear iteration : 139
+current obj : 1.183508e+05, grad_norm : 7.500537e+04, feas_norm: 0.000000e+00
+lambda: -905.826561 lambda: 1125.580051 lambda: 27.586987 lambda: -205.358080 lambda: -265.980445 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 krylov_tol : 7.035462e-03 
+-------------------------------------------------------------
+nonlinear iteration : 140
+current obj : 1.176957e+05, grad_norm : 7.260194e+04, feas_norm: 8.127109e-03
+lambda: -905.654449 lambda: 1125.410651 lambda: 27.253704 lambda: -205.286206 lambda: -266.053755 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 krylov_tol : 6.921824e-03 
+-------------------------------------------------------------
+nonlinear iteration : 141
+current obj : 1.059090e+05, grad_norm : 6.467795e+04, feas_norm: 6.103069e-03
+lambda: -905.751571 lambda: 1112.763001 lambda: 36.497840 lambda: -212.007865 lambda: -272.530603 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 krylov_tol : 6.533179e-03 
+-------------------------------------------------------------
+nonlinear iteration : 142
+current obj : 1.098536e+05, grad_norm : 6.771618e+04, feas_norm: 9.809108e-03
+lambda: -868.843269 lambda: 1069.374899 lambda: 47.479696 lambda: -222.690151 lambda: -278.919835 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 krylov_tol : 6.684865e-03 
+-------------------------------------------------------------
+nonlinear iteration : 143
+current obj : 1.100019e+05, grad_norm : 6.775003e+04, feas_norm: 1.885605e-05
+lambda: -889.111549 lambda: 1060.923793 lambda: 15.766719 lambda: -177.842666 lambda: -275.512125 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 krylov_tol : 6.686535e-03 
+-------------------------------------------------------------
+nonlinear iteration : 144
+current obj : 1.207491e+05, grad_norm : 7.546139e+04, feas_norm: 1.043443e-02
+lambda: -896.759773 lambda: 1057.218800 lambda: 18.941768 lambda: -176.229370 lambda: -274.786392 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 krylov_tol : 7.056816e-03 
+-------------------------------------------------------------
+nonlinear iteration : 145
+current obj : 1.208337e+05, grad_norm : 7.553894e+04, feas_norm: 1.625636e-05
+lambda: -931.415672 lambda: 1084.484313 lambda: 79.495169 lambda: -223.769532 lambda: -271.669294 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 krylov_tol : 7.060442e-03 
+-------------------------------------------------------------
+nonlinear iteration : 146
+current obj : 1.162224e+05, grad_norm : 7.486039e+04, feas_norm: 1.145590e-02
+lambda: -942.562172 lambda: 1093.650109 lambda: 86.692401 lambda: -226.414581 lambda: -271.090899 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 krylov_tol : 7.028659e-03 
+-------------------------------------------------------------
+nonlinear iteration : 147
+current obj : 1.155761e+05, grad_norm : 7.461309e+04, feas_norm: 3.381295e-02
+lambda: -936.877940 lambda: 1087.625329 lambda: 115.486136 lambda: -245.620890 lambda: -264.393454 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 krylov_tol : 7.017039e-03 
+-------------------------------------------------------------
+nonlinear iteration : 148
+current obj : 1.061077e+05, grad_norm : 7.139791e+04, feas_norm: 1.184981e-02
+lambda: -934.848448 lambda: 1070.568975 lambda: 170.218068 lambda: -276.136629 lambda: -263.502911 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 krylov_tol : 6.864188e-03 
+-------------------------------------------------------------
+nonlinear iteration : 149
+current obj : 1.061815e+05, grad_norm : 7.148742e+04, feas_norm: 7.282163e-06
+lambda: -906.292708 lambda: 1039.394304 lambda: 181.146600 lambda: -259.142765 lambda: -263.038607 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 krylov_tol : 6.868489e-03 
+-------------------------------------------------------------
+nonlinear iteration : 150
+current obj : 1.061812e+05, grad_norm : 7.148973e+04, feas_norm: 6.068946e-11
+lambda: -897.332016 lambda: 1028.745173 lambda: 190.877320 lambda: -257.874982 lambda: -263.484147 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 krylov_tol : 6.868600e-03 
+-------------------------------------------------------------
+nonlinear iteration : 151
+current obj : 1.005396e+05, grad_norm : 6.693735e+04, feas_norm: 6.392784e-03
+lambda: -894.259804 lambda: 1024.648420 lambda: 194.925251 lambda: -257.675795 lambda: -263.656133 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 krylov_tol : 6.646311e-03 
+-------------------------------------------------------------
+nonlinear iteration : 152
+current obj : 1.035645e+05, grad_norm : 6.986040e+04, feas_norm: 1.175392e-02
+lambda: -874.055421 lambda: 1013.810698 lambda: 178.018920 lambda: -256.578222 lambda: -263.632535 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 krylov_tol : 6.789878e-03 
+-------------------------------------------------------------
+nonlinear iteration : 153
+current obj : 1.038939e+05, grad_norm : 7.008489e+04, feas_norm: 1.601844e-05
+lambda: -853.647355 lambda: 1031.577039 lambda: 192.448331 lambda: -280.723384 lambda: -265.989719 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 krylov_tol : 6.800778e-03 
+-------------------------------------------------------------
+nonlinear iteration : 154
+current obj : 1.038742e+05, grad_norm : 7.007394e+04, feas_norm: 1.311408e-08
+lambda: -847.150557 lambda: 1040.225940 lambda: 186.147128 lambda: -278.828027 lambda: -267.529536 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 krylov_tol : 6.800247e-03 
+-------------------------------------------------------------
+nonlinear iteration : 155
+current obj : 1.042911e+05, grad_norm : 6.961042e+04, feas_norm: 1.361146e-02
+lambda: -844.811398 lambda: 1043.317844 lambda: 183.891438 lambda: -278.229122 lambda: -268.113128 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 krylov_tol : 6.777719e-03 
+-------------------------------------------------------------
+nonlinear iteration : 156
+current obj : 1.043017e+05, grad_norm : 6.957391e+04, feas_norm: 8.642893e-05
+lambda: -834.997847 lambda: 1058.563937 lambda: 133.355423 lambda: -258.553505 lambda: -263.249965 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 krylov_tol : 6.775941e-03 
+-------------------------------------------------------------
+nonlinear iteration : 157
+current obj : 9.494610e+04, grad_norm : 6.234997e+04, feas_norm: 8.655167e-03
+lambda: -832.175930 lambda: 1063.351605 lambda: 121.462695 lambda: -256.930784 lambda: -262.520496 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 krylov_tol : 6.414525e-03 
+-------------------------------------------------------------
+nonlinear iteration : 158
+current obj : 9.359300e+04, grad_norm : 6.185726e+04, feas_norm: 1.295734e-02
+lambda: -809.080348 lambda: 1034.044211 lambda: 132.853826 lambda: -279.125648 lambda: -264.105532 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 krylov_tol : 6.389130e-03 
+-------------------------------------------------------------
+nonlinear iteration : 159
+current obj : 9.793575e+04, grad_norm : 6.292107e+04, feas_norm: 2.296134e-02
+lambda: -825.142467 lambda: 1002.817857 lambda: 158.967248 lambda: -277.520235 lambda: -264.608102 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 krylov_tol : 6.443836e-03 
+-------------------------------------------------------------
+nonlinear iteration : 160
+current obj : 9.927146e+04, grad_norm : 6.347524e+04, feas_norm: 6.990968e-05
+lambda: -835.738304 lambda: 997.464721 lambda: 142.762699 lambda: -258.144806 lambda: -267.302435 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 krylov_tol : 6.472150e-03 
+-------------------------------------------------------------
+nonlinear iteration : 161
+current obj : 1.145517e+05, grad_norm : 7.254252e+04, feas_norm: 8.432193e-03
+lambda: -843.151724 lambda: 999.503241 lambda: 139.166494 lambda: -256.698702 lambda: -270.246347 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 krylov_tol : 6.918991e-03 
+-------------------------------------------------------------
+nonlinear iteration : 162
+current obj : 1.147442e+05, grad_norm : 7.258332e+04, feas_norm: 7.979592e-06
+lambda: -893.099087 lambda: 1035.341460 lambda: 129.115059 lambda: -238.163371 lambda: -271.693291 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 krylov_tol : 6.920936e-03 
+-------------------------------------------------------------
+nonlinear iteration : 163
+current obj : 1.147696e+05, grad_norm : 7.259914e+04, feas_norm: 2.933658e-08
+lambda: -909.577503 lambda: 1047.921473 lambda: 127.313097 lambda: -234.127961 lambda: -272.764624 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 krylov_tol : 6.921690e-03 
+-------------------------------------------------------------
+nonlinear iteration : 164
+current obj : 1.147696e+05, grad_norm : 7.259884e+04, feas_norm: 4.002966e-16
+lambda: -915.140658 lambda: 1052.107101 lambda: 127.537833 lambda: -233.496449 lambda: -273.170232 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 krylov_tol : 6.921676e-03 
+-------------------------------------------------------------
+nonlinear iteration : 165
+current obj : 1.313429e+05, grad_norm : 8.217979e+04, feas_norm: 7.730698e-03
+lambda: -916.993751 lambda: 1053.475382 lambda: 127.687974 lambda: -233.325753 lambda: -273.323435 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 krylov_tol : 7.364257e-03 
+-------------------------------------------------------------
+nonlinear iteration : 166
+current obj : 1.394009e+05, grad_norm : 8.661447e+04, feas_norm: 6.161437e-03
+lambda: -961.222469 lambda: 1086.381391 lambda: 161.055883 lambda: -256.782926 lambda: -275.212094 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 krylov_tol : 7.560345e-03 
+-------------------------------------------------------------
+nonlinear iteration : 167
+current obj : 1.438439e+05, grad_norm : 9.111836e+04, feas_norm: 1.393455e-02
+lambda: -995.744344 lambda: 1106.547939 lambda: 132.755410 lambda: -219.473695 lambda: -274.739204 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 krylov_tol : 7.754421e-03 
+-------------------------------------------------------------
+nonlinear iteration : 168
+current obj : 1.410768e+05, grad_norm : 8.943970e+04, feas_norm: 9.914532e-05
+lambda: -1018.233671 lambda: 1112.912451 lambda: 186.886516 lambda: -245.391171 lambda: -274.426307 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 krylov_tol : 7.682659e-03 
+-------------------------------------------------------------
+nonlinear iteration : 169
+current obj : 1.410705e+05, grad_norm : 8.943673e+04, feas_norm: 3.828268e-09
+lambda: -1021.869345 lambda: 1107.623735 lambda: 199.721613 lambda: -247.097760 lambda: -275.166486 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 krylov_tol : 7.682532e-03 
+-------------------------------------------------------------
+nonlinear iteration : 170
+current obj : 1.396609e+05, grad_norm : 8.945777e+04, feas_norm: 1.197155e-02
+lambda: -1023.053132 lambda: 1105.292296 lambda: 203.924951 lambda: -246.993404 lambda: -275.450984 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 krylov_tol : 7.683435e-03 
+-------------------------------------------------------------
+nonlinear iteration : 171
+current obj : 1.392198e+05, grad_norm : 8.913363e+04, feas_norm: 2.901871e-05
+lambda: -995.020231 lambda: 1125.618234 lambda: 182.992315 lambda: -251.207287 lambda: -274.132503 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 krylov_tol : 7.669503e-03 
+-------------------------------------------------------------
+nonlinear iteration : 172
+current obj : 1.406884e+05, grad_norm : 9.091221e+04, feas_norm: 1.442624e-02
+lambda: -985.223008 lambda: 1133.170624 lambda: 171.358417 lambda: -248.949656 lambda: -274.493369 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 krylov_tol : 7.745644e-03 
+-------------------------------------------------------------
+nonlinear iteration : 173
+current obj : 1.236559e+05, grad_norm : 8.037726e+04, feas_norm: 1.300845e-02
+lambda: -975.633986 lambda: 1156.318610 lambda: 160.986788 lambda: -263.970364 lambda: -267.175642 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 krylov_tol : 7.283045e-03 
+-------------------------------------------------------------
+nonlinear iteration : 174
+current obj : 1.333692e+05, grad_norm : 8.493046e+04, feas_norm: 1.104682e-02
+lambda: -941.105184 lambda: 1124.750350 lambda: 130.869476 lambda: -239.481693 lambda: -266.113689 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 krylov_tol : 7.486488e-03 
+-------------------------------------------------------------
+nonlinear iteration : 175
+current obj : 1.185304e+05, grad_norm : 7.701416e+04, feas_norm: 1.519575e-02
+lambda: -956.862591 lambda: 1118.932601 lambda: 124.518925 lambda: -217.175713 lambda: -272.346389 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 krylov_tol : 7.129051e-03 
+-------------------------------------------------------------
+nonlinear iteration : 176
+current obj : 1.193074e+05, grad_norm : 7.738650e+04, feas_norm: 2.179373e-05
+lambda: -944.776772 lambda: 1078.027114 lambda: 179.994740 lambda: -252.701699 lambda: -271.937052 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 krylov_tol : 7.146264e-03 
+-------------------------------------------------------------
+nonlinear iteration : 177
+current obj : 1.193061e+05, grad_norm : 7.738598e+04, feas_norm: 3.540763e-10
+lambda: -941.382576 lambda: 1066.244191 lambda: 187.613729 lambda: -254.807338 lambda: -272.956455 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 krylov_tol : 7.146239e-03 
+-------------------------------------------------------------
+nonlinear iteration : 178
+current obj : 1.193061e+05, grad_norm : 7.738605e+04, feas_norm: 9.155134e-16
+lambda: -940.299241 lambda: 1062.099328 lambda: 189.534583 lambda: -254.612410 lambda: -273.340485 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 krylov_tol : 7.146243e-03 
+-------------------------------------------------------------
+nonlinear iteration : 179
+current obj : 1.286127e+05, grad_norm : 8.279313e+04, feas_norm: 2.984306e-02
+lambda: -939.955900 lambda: 1060.638112 lambda: 190.210068 lambda: -254.480390 lambda: -273.485617 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 krylov_tol : 7.391687e-03 
+-------------------------------------------------------------
+nonlinear iteration : 180
+current obj : 1.447364e+05, grad_norm : 9.042487e+04, feas_norm: 7.330819e-03
+lambda: -952.377194 lambda: 1096.728241 lambda: 204.573007 lambda: -287.709610 lambda: -271.008839 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 krylov_tol : 7.724855e-03 
+-------------------------------------------------------------
+nonlinear iteration : 181
+current obj : 1.249842e+05, grad_norm : 7.981020e+04, feas_norm: 6.810913e-03
+lambda: -986.092915 lambda: 1144.940494 lambda: 189.696726 lambda: -291.949068 lambda: -276.168957 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 krylov_tol : 7.257309e-03 
+-------------------------------------------------------------
+nonlinear iteration : 182
+current obj : 1.253377e+05, grad_norm : 8.002414e+04, feas_norm: 9.127989e-06
+lambda: -965.429156 lambda: 1118.019853 lambda: 171.905417 lambda: -273.789298 lambda: -274.719051 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 krylov_tol : 7.267030e-03 
+-------------------------------------------------------------
+nonlinear iteration : 183
+current obj : 1.384009e+05, grad_norm : 8.515614e+04, feas_norm: 9.917943e-03
+lambda: -958.688088 lambda: 1110.122826 lambda: 171.843181 lambda: -273.749513 lambda: -274.616638 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 krylov_tol : 7.496429e-03 
+-------------------------------------------------------------
+nonlinear iteration : 184
+current obj : 1.187403e+05, grad_norm : 7.406601e+04, feas_norm: 6.098031e-03
+lambda: -984.604005 lambda: 1135.172528 lambda: 158.772891 lambda: -276.373576 lambda: -277.312498 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 krylov_tol : 6.991267e-03 
+-------------------------------------------------------------
+nonlinear iteration : 185
+current obj : 1.076357e+05, grad_norm : 6.714572e+04, feas_norm: 7.429341e-03
+lambda: -953.892054 lambda: 1097.134746 lambda: 155.540679 lambda: -272.714273 lambda: -278.210252 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 krylov_tol : 6.656648e-03 
+-------------------------------------------------------------
+nonlinear iteration : 186
+current obj : 1.211526e+05, grad_norm : 7.317432e+04, feas_norm: 1.066382e-02
+lambda: -919.391762 lambda: 1043.897135 lambda: 173.896159 lambda: -270.589381 lambda: -284.804903 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 krylov_tol : 6.949055e-03 
+-------------------------------------------------------------
+nonlinear iteration : 187
+current obj : 1.181421e+05, grad_norm : 7.056678e+04, feas_norm: 1.898350e-02
+lambda: -935.125558 lambda: 1063.849285 lambda: 162.172694 lambda: -275.782492 lambda: -287.270412 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 krylov_tol : 6.824119e-03 
+-------------------------------------------------------------
+nonlinear iteration : 188
+current obj : 1.153161e+05, grad_norm : 7.015763e+04, feas_norm: 2.401199e-02
+lambda: -913.719191 lambda: 1077.200379 lambda: 67.921584 lambda: -207.147931 lambda: -292.324410 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 krylov_tol : 6.804307e-03 
+-------------------------------------------------------------
+nonlinear iteration : 189
+current obj : 1.161004e+05, grad_norm : 7.062662e+04, feas_norm: 8.666550e-05
+lambda: -890.921485 lambda: 1079.072488 lambda: 156.961769 lambda: -300.508849 lambda: -294.317655 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 krylov_tol : 6.827012e-03 
+-------------------------------------------------------------
+nonlinear iteration : 190
+current obj : 1.160998e+05, grad_norm : 7.062546e+04, feas_norm: 2.017673e-09
+lambda: -885.852118 lambda: 1083.167997 lambda: 148.910436 lambda: -294.131310 lambda: -296.660667 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 krylov_tol : 6.826955e-03 
+-------------------------------------------------------------
+nonlinear iteration : 191
+current obj : 1.160998e+05, grad_norm : 7.062543e+04, feas_norm: 4.299875e-16
+lambda: -884.102255 lambda: 1084.658954 lambda: 147.486465 lambda: -293.319125 lambda: -297.514276 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 krylov_tol : 6.826954e-03 
+-------------------------------------------------------------
+nonlinear iteration : 192
+current obj : 1.160998e+05, grad_norm : 7.062542e+04, feas_norm: 8.599751e-16
+lambda: -883.502975 lambda: 1085.203917 lambda: 146.952403 lambda: -293.010687 lambda: -297.825919 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 krylov_tol : 6.826953e-03 
+-------------------------------------------------------------
+nonlinear iteration : 193
+current obj : 1.160998e+05, grad_norm : 7.062541e+04, feas_norm: 2.482534e-16
+lambda: -883.297727 lambda: 1085.403144 lambda: 146.756640 lambda: -292.898106 lambda: -297.939696 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 krylov_tol : 6.826953e-03 
+-------------------------------------------------------------
+nonlinear iteration : 194
+current obj : 1.160998e+05, grad_norm : 7.062541e+04, feas_norm: 1.110223e-16
+lambda: -883.227428 lambda: 1085.475995 lambda: 146.684872 lambda: -292.857005 lambda: -297.981234 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 krylov_tol : 6.826953e-03 
+-------------------------------------------------------------
+nonlinear iteration : 195
+current obj : 1.054157e+05, grad_norm : 6.468117e+04, feas_norm: 2.620038e-02
+lambda: -883.203349 lambda: 1085.502641 lambda: 146.658562 lambda: -292.841999 lambda: -297.996399 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 krylov_tol : 6.533341e-03 
+-------------------------------------------------------------
+nonlinear iteration : 196
+current obj : 1.038786e+05, grad_norm : 6.311548e+04, feas_norm: 1.438923e-03
+lambda: -850.206378 lambda: 1062.252370 lambda: 45.151679 lambda: -194.126608 lambda: -295.249333 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 krylov_tol : 6.453783e-03 
+-------------------------------------------------------------
+nonlinear iteration : 197
+current obj : 1.077139e+05, grad_norm : 6.665150e+04, feas_norm: 2.880697e-02
+lambda: -833.184192 lambda: 1045.960991 lambda: 9.044650 lambda: -161.987788 lambda: -298.735195 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 krylov_tol : 6.632105e-03 
+-------------------------------------------------------------
+nonlinear iteration : 198
+current obj : 1.089788e+05, grad_norm : 6.703454e+04, feas_norm: 1.500609e-02
+lambda: -839.490186 lambda: 1053.199160 lambda: 142.678473 lambda: -286.791722 lambda: -296.653742 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 krylov_tol : 6.651135e-03 
+-------------------------------------------------------------
+nonlinear iteration : 199
+current obj : 1.107396e+05, grad_norm : 6.743898e+04, feas_norm: 1.260343e-02
+lambda: -835.398769 lambda: 1067.976418 lambda: 139.242600 lambda: -306.508369 lambda: -290.175754 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 krylov_tol : 6.671169e-03 
+-------------------------------------------------------------
+nonlinear iteration : 200
+current obj : 1.006281e+05, grad_norm : 6.259774e+04, feas_norm: 3.828742e-03
+lambda: -808.302474 lambda: 1090.461681 lambda: 104.139795 lambda: -312.426315 lambda: -287.506018 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 krylov_tol : 6.427258e-03 
+-------------------------------------------------------------
+nonlinear iteration : 201
+current obj : 8.970388e+04, grad_norm : 5.672198e+04, feas_norm: 5.138376e-03
+lambda: -774.451319 lambda: 1068.884270 lambda: 89.612577 lambda: -304.401703 lambda: -283.846605 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 krylov_tol : 6.118178e-03 
+-------------------------------------------------------------
+nonlinear iteration : 202
+current obj : 8.996191e+04, grad_norm : 5.683565e+04, feas_norm: 4.728977e-06
+lambda: -734.045689 lambda: 1021.118258 lambda: 104.231194 lambda: -305.899055 lambda: -282.804255 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 krylov_tol : 6.124305e-03 
+-------------------------------------------------------------
+nonlinear iteration : 203
+current obj : 1.028560e+05, grad_norm : 6.297300e+04, feas_norm: 1.103264e-02
+lambda: -721.374153 lambda: 1005.856430 lambda: 108.873168 lambda: -306.195804 lambda: -282.781157 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 krylov_tol : 6.446494e-03 
+-------------------------------------------------------------
+nonlinear iteration : 204
+current obj : 8.874154e+04, grad_norm : 5.521590e+04, feas_norm: 8.679907e-03
+lambda: -752.034215 lambda: 1038.801747 lambda: 103.012518 lambda: -309.800087 lambda: -286.006404 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 krylov_tol : 6.036407e-03 
+-------------------------------------------------------------
+nonlinear iteration : 205
+current obj : 8.837504e+04, grad_norm : 5.504111e+04, feas_norm: 7.330751e-06
+lambda: -718.057770 lambda: 996.788735 lambda: 116.299349 lambda: -312.765228 lambda: -287.992959 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 krylov_tol : 6.026845e-03 
+-------------------------------------------------------------
+nonlinear iteration : 206
+current obj : 7.989097e+04, grad_norm : 4.961660e+04, feas_norm: 8.113001e-03
+lambda: -705.640185 lambda: 981.878926 lambda: 118.891270 lambda: -311.115053 lambda: -289.116849 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 krylov_tol : 5.722159e-03 
+-------------------------------------------------------------
+nonlinear iteration : 207
+current obj : 8.575958e+04, grad_norm : 5.372905e+04, feas_norm: 2.071589e-02
+lambda: -652.825083 lambda: 930.684538 lambda: 131.702579 lambda: -315.976503 lambda: -294.281507 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 krylov_tol : 5.954578e-03 
+-------------------------------------------------------------
+nonlinear iteration : 208
+current obj : 8.708273e+04, grad_norm : 5.388884e+04, feas_norm: 9.623864e-03
+lambda: -645.700106 lambda: 958.653575 lambda: 117.411857 lambda: -314.468347 lambda: -293.780890 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 krylov_tol : 5.963426e-03 
+-------------------------------------------------------------
+nonlinear iteration : 209
+current obj : 8.691403e+04, grad_norm : 5.383872e+04, feas_norm: 9.720492e-06
+lambda: -675.983102 lambda: 958.582601 lambda: 142.312368 lambda: -316.873088 lambda: -299.472614 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 krylov_tol : 5.960652e-03 
+-------------------------------------------------------------
+nonlinear iteration : 210
+current obj : 8.691390e+04, grad_norm : 5.383888e+04, feas_norm: 6.789860e-11
+lambda: -686.133834 lambda: 958.121224 lambda: 147.882008 lambda: -313.997283 lambda: -301.932772 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 krylov_tol : 5.960661e-03 
+-------------------------------------------------------------
+nonlinear iteration : 211
+current obj : 8.654481e+04, grad_norm : 5.356488e+04, feas_norm: 4.199812e-02
+lambda: -689.552830 lambda: 957.765207 lambda: 150.070230 lambda: -313.112801 lambda: -302.827030 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 krylov_tol : 5.945474e-03 
+-------------------------------------------------------------
+nonlinear iteration : 212
+current obj : 9.234444e+04, grad_norm : 5.708250e+04, feas_norm: 1.074449e-02
+lambda: -693.750130 lambda: 960.861652 lambda: 34.083504 lambda: -195.084575 lambda: -298.837892 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 krylov_tol : 6.137590e-03 
+-------------------------------------------------------------
+nonlinear iteration : 213
+current obj : 9.274099e+04, grad_norm : 5.736348e+04, feas_norm: 2.109786e-05
+lambda: -718.687505 lambda: 991.799528 lambda: -82.192908 lambda: -91.819542 lambda: -298.536729 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 krylov_tol : 6.152678e-03 
+-------------------------------------------------------------
+nonlinear iteration : 214
+current obj : 1.057716e+05, grad_norm : 6.425049e+04, feas_norm: 8.969053e-03
+lambda: -728.166600 lambda: 1004.064747 lambda: -94.312027 lambda: -85.245526 lambda: -299.133981 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 krylov_tol : 6.511554e-03 
+-------------------------------------------------------------
+nonlinear iteration : 215
+current obj : 1.076867e+05, grad_norm : 6.523491e+04, feas_norm: 3.452928e-04
+lambda: -759.684820 lambda: 1051.179177 lambda: -41.907430 lambda: -144.306387 lambda: -304.765936 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 krylov_tol : 6.561248e-03 
+-------------------------------------------------------------
+nonlinear iteration : 216
+current obj : 9.665688e+04, grad_norm : 5.866924e+04, feas_norm: 4.809309e-03
+lambda: -774.649095 lambda: 1072.929301 lambda: -24.802228 lambda: -165.180862 lambda: -307.508576 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 krylov_tol : 6.222310e-03 
+-------------------------------------------------------------
+nonlinear iteration : 217
+current obj : 9.649499e+04, grad_norm : 5.859124e+04, feas_norm: 1.730070e-06
+lambda: -752.575282 lambda: 1035.384138 lambda: -2.280798 lambda: -181.755314 lambda: -307.096142 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 krylov_tol : 6.218172e-03 
+-------------------------------------------------------------
+nonlinear iteration : 218
+current obj : 1.069096e+05, grad_norm : 6.555878e+04, feas_norm: 6.605750e-03
+lambda: -744.465757 lambda: 1022.700819 lambda: 0.791119 lambda: -182.885382 lambda: -307.122910 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 krylov_tol : 6.577515e-03 
+-------------------------------------------------------------
+nonlinear iteration : 219
+current obj : 9.313560e+04, grad_norm : 5.743603e+04, feas_norm: 7.033031e-03
+lambda: -776.790346 lambda: 1060.650840 lambda: -6.643218 lambda: -170.837183 lambda: -306.797671 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 krylov_tol : 6.156567e-03 
+-------------------------------------------------------------
+nonlinear iteration : 220
+current obj : 9.347645e+04, grad_norm : 5.759890e+04, feas_norm: 2.728284e-02
+lambda: -753.072867 lambda: 1021.733006 lambda: -10.231314 lambda: -162.153843 lambda: -303.219133 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 krylov_tol : 6.165290e-03 
+-------------------------------------------------------------
+nonlinear iteration : 221
+current obj : 9.266113e+04, grad_norm : 5.688932e+04, feas_norm: 9.583533e-05
+lambda: -762.373304 lambda: 1008.305445 lambda: -153.680462 lambda: 2.144301 lambda: -303.735475 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 krylov_tol : 6.127196e-03 
+-------------------------------------------------------------
+nonlinear iteration : 222
+current obj : 9.495191e+04, grad_norm : 5.747704e+04, feas_norm: 1.607966e-02
+lambda: -763.121349 lambda: 996.350015 lambda: -180.843794 lambda: 36.680024 lambda: -307.303065 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 krylov_tol : 6.158765e-03 
+-------------------------------------------------------------
+nonlinear iteration : 223
+current obj : 9.963585e+04, grad_norm : 6.009564e+04, feas_norm: 3.121762e-02
+lambda: -779.069915 lambda: 984.791794 lambda: -59.098779 lambda: -86.992887 lambda: -302.587777 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 krylov_tol : 6.297496e-03 
+-------------------------------------------------------------
+nonlinear iteration : 224
+current obj : 1.007885e+05, grad_norm : 6.071643e+04, feas_norm: 8.384125e-03
+lambda: -797.473280 lambda: 991.406749 lambda: 131.611524 lambda: -269.832762 lambda: -303.894386 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 krylov_tol : 6.329939e-03 
+-------------------------------------------------------------
+nonlinear iteration : 225
+current obj : 1.086414e+05, grad_norm : 6.358443e+04, feas_norm: 4.535687e-03
+lambda: -795.055835 lambda: 1010.398492 lambda: 103.354972 lambda: -269.752055 lambda: -297.852099 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 krylov_tol : 6.477715e-03 
+-------------------------------------------------------------
+nonlinear iteration : 226
+current obj : 1.235915e+05, grad_norm : 7.145573e+04, feas_norm: 7.834479e-03
+lambda: -813.796182 lambda: 1029.661141 lambda: 110.515494 lambda: -287.902298 lambda: -301.693924 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 krylov_tol : 6.866967e-03 
+-------------------------------------------------------------
+nonlinear iteration : 227
+current obj : 1.236659e+05, grad_norm : 7.146312e+04, feas_norm: 5.698088e-06
+lambda: -872.145232 lambda: 1074.991083 lambda: 119.712594 lambda: -296.758706 lambda: -303.810348 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 krylov_tol : 6.867322e-03 
+-------------------------------------------------------------
+nonlinear iteration : 228
+current obj : 1.227687e+05, grad_norm : 7.254235e+04, feas_norm: 1.579757e-02
+lambda: -891.306177 lambda: 1090.936459 lambda: 118.748771 lambda: -296.104236 lambda: -305.109109 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 krylov_tol : 6.918982e-03 
+-------------------------------------------------------------
+nonlinear iteration : 229
+current obj : 1.230068e+05, grad_norm : 7.275849e+04, feas_norm: 4.574827e-05
+lambda: -909.252524 lambda: 1086.578641 lambda: 180.802816 lambda: -323.784726 lambda: -306.978453 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 krylov_tol : 6.929282e-03 
+-------------------------------------------------------------
+nonlinear iteration : 230
+current obj : 1.331574e+05, grad_norm : 7.950934e+04, feas_norm: 8.074369e-03
+lambda: -915.024347 lambda: 1085.349169 lambda: 189.490747 lambda: -321.085688 lambda: -308.539812 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 krylov_tol : 7.243617e-03 
+-------------------------------------------------------------
+nonlinear iteration : 231
+current obj : 1.359726e+05, grad_norm : 8.097437e+04, feas_norm: 1.100844e-04
+lambda: -958.217555 lambda: 1100.216806 lambda: 202.408364 lambda: -312.949286 lambda: -304.516751 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 krylov_tol : 7.310048e-03 
+-------------------------------------------------------------
+nonlinear iteration : 232
+current obj : 1.358629e+05, grad_norm : 8.091447e+04, feas_norm: 2.327073e-07
+lambda: -977.768468 lambda: 1111.646749 lambda: 208.794056 lambda: -314.139941 lambda: -303.499171 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 krylov_tol : 7.307343e-03 
+-------------------------------------------------------------
+nonlinear iteration : 233
+current obj : 1.416097e+05, grad_norm : 8.128527e+04, feas_norm: 7.503134e-03
+lambda: -984.059596 lambda: 1114.919334 lambda: 211.126541 lambda: -314.483936 lambda: -303.125352 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 krylov_tol : 7.324068e-03 
+-------------------------------------------------------------
+nonlinear iteration : 234
+current obj : 1.600425e+05, grad_norm : 8.910480e+04, feas_norm: 7.795680e-03
+lambda: -999.788144 lambda: 1114.179673 lambda: 218.109180 lambda: -323.811753 lambda: -307.864536 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 krylov_tol : 7.668262e-03 
+-------------------------------------------------------------
+nonlinear iteration : 235
+current obj : 1.467000e+05, grad_norm : 8.432197e+04, feas_norm: 5.609076e-03
+lambda: -1041.636254 lambda: 1150.573549 lambda: 202.023220 lambda: -322.795392 lambda: -311.301472 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 krylov_tol : 7.459621e-03 
+-------------------------------------------------------------
+nonlinear iteration : 236
+current obj : 1.502602e+05, grad_norm : 8.900651e+04, feas_norm: 7.353566e-03
+lambda: -1029.818245 lambda: 1148.094802 lambda: 180.520271 lambda: -310.077904 lambda: -304.638164 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 krylov_tol : 7.664032e-03 
+-------------------------------------------------------------
+nonlinear iteration : 237
+current obj : 1.509855e+05, grad_norm : 8.882422e+04, feas_norm: 2.351778e-02
+lambda: -1038.189885 lambda: 1158.699859 lambda: 181.630394 lambda: -302.179652 lambda: -296.890362 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 krylov_tol : 7.656180e-03 
+-------------------------------------------------------------
+nonlinear iteration : 238
+current obj : 1.371195e+05, grad_norm : 8.329724e+04, feas_norm: 7.012576e-03
+lambda: -1053.638793 lambda: 1149.520824 lambda: 158.675596 lambda: -254.989896 lambda: -296.878778 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 krylov_tol : 7.414156e-03 
+-------------------------------------------------------------
+nonlinear iteration : 239
+current obj : 1.373556e+05, grad_norm : 8.343716e+04, feas_norm: 2.970297e-06
+lambda: -1023.809003 lambda: 1125.353514 lambda: 164.616536 lambda: -248.461824 lambda: -296.887898 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 krylov_tol : 7.420380e-03 
+-------------------------------------------------------------
+nonlinear iteration : 240
+current obj : 1.368884e+05, grad_norm : 8.457915e+04, feas_norm: 1.037569e-02
+lambda: -1014.859559 lambda: 1118.444504 lambda: 169.094176 lambda: -248.428939 lambda: -297.223519 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 krylov_tol : 7.470989e-03 
+-------------------------------------------------------------
+nonlinear iteration : 241
+current obj : 1.552386e+05, grad_norm : 9.390174e+04, feas_norm: 9.064020e-03
+lambda: -1017.995818 lambda: 1120.262528 lambda: 104.037455 lambda: -186.285442 lambda: -287.587891 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 krylov_tol : 7.871967e-03 
+-------------------------------------------------------------
+nonlinear iteration : 242
+current obj : 1.667253e+05, grad_norm : 9.873531e+04, feas_norm: 8.078319e-03
+lambda: -1049.445610 lambda: 1165.469209 lambda: 76.153897 lambda: -183.681674 lambda: -281.482189 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 krylov_tol : 8.072028e-03 
+-------------------------------------------------------------
+nonlinear iteration : 243
+current obj : 1.618743e+05, grad_norm : 9.848275e+04, feas_norm: 1.116676e-02
+lambda: -1074.024213 lambda: 1201.684079 lambda: 53.034967 lambda: -168.257792 lambda: -288.906928 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 krylov_tol : 8.061697e-03 
+-------------------------------------------------------------
+nonlinear iteration : 244
+current obj : 1.606579e+05, grad_norm : 9.953684e+04, feas_norm: 1.508426e-02
+lambda: -1081.681447 lambda: 1197.589069 lambda: 40.236690 lambda: -137.811115 lambda: -286.272137 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 krylov_tol : 8.104726e-03 
+-------------------------------------------------------------
+nonlinear iteration : 245
+current obj : 1.677293e+05, grad_norm : 1.030902e+05, feas_norm: 7.988250e-04
+lambda: -1075.592417 lambda: 1201.757219 lambda: -72.088137 lambda: -18.212335 lambda: -283.335596 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 krylov_tol : 8.248124e-03 
+-------------------------------------------------------------
+nonlinear iteration : 246
+current obj : 1.678375e+05, grad_norm : 1.031478e+05, feas_norm: 5.024534e-08
+lambda: -1089.301203 lambda: 1210.980224 lambda: -96.436624 lambda: 9.436292 lambda: -283.231643 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 krylov_tol : 8.250426e-03 
+-------------------------------------------------------------
+nonlinear iteration : 247
+current obj : 1.478021e+05, grad_norm : 9.157820e+04, feas_norm: 5.744109e-03
+lambda: -1094.054151 lambda: 1213.910620 lambda: -99.954667 lambda: 14.521734 lambda: -283.312786 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 krylov_tol : 7.773963e-03 
+-------------------------------------------------------------
+nonlinear iteration : 248
+current obj : 1.490884e+05, grad_norm : 9.205461e+04, feas_norm: 3.783743e-02
+lambda: -1067.908565 lambda: 1172.066689 lambda: -79.350418 lambda: 8.619864 lambda: -287.241378 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 krylov_tol : 7.794158e-03 
+-------------------------------------------------------------
+nonlinear iteration : 249
+current obj : 1.452056e+05, grad_norm : 9.042844e+04, feas_norm: 5.912513e-04
+lambda: -1066.153929 lambda: 1175.943593 lambda: -298.623246 lambda: 221.675568 lambda: -284.735805 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 krylov_tol : 7.725008e-03 
+-------------------------------------------------------------
+nonlinear iteration : 250
+current obj : 1.450912e+05, grad_norm : 9.042494e+04, feas_norm: 1.256886e-05
+lambda: -1057.050836 lambda: 1168.407448 lambda: -351.373884 lambda: 272.402455 lambda: -286.698090 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 krylov_tol : 7.724858e-03 
+-------------------------------------------------------------
+nonlinear iteration : 251
+current obj : 1.450916e+05, grad_norm : 9.042556e+04, feas_norm: 7.251334e-11
+lambda: -1054.078768 lambda: 1165.454265 lambda: -368.015336 lambda: 289.233500 lambda: -287.468400 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 krylov_tol : 7.724885e-03 
+-------------------------------------------------------------
+nonlinear iteration : 252
+current obj : 1.450916e+05, grad_norm : 9.042564e+04, feas_norm: 3.845925e-16
+lambda: -1053.096424 lambda: 1164.365024 lambda: -373.447844 lambda: 294.914264 lambda: -287.800379 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 krylov_tol : 7.724889e-03 
+-------------------------------------------------------------
+nonlinear iteration : 253
+current obj : 1.450916e+05, grad_norm : 9.042567e+04, feas_norm: 0.000000e+00
+lambda: -1052.771750 lambda: 1163.960007 lambda: -375.221610 lambda: 296.841768 lambda: -287.938652 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 krylov_tol : 7.724890e-03 
+-------------------------------------------------------------
+nonlinear iteration : 254
+current obj : 1.453616e+05, grad_norm : 8.987405e+04, feas_norm: 9.097185e-03
+lambda: -1052.664498 lambda: 1163.808420 lambda: -375.798885 lambda: 297.497579 lambda: -287.994935 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 krylov_tol : 7.701292e-03 
+-------------------------------------------------------------
+nonlinear iteration : 255
+current obj : 1.480005e+05, grad_norm : 9.005288e+04, feas_norm: 2.395800e-02
+lambda: -1055.941284 lambda: 1153.087469 lambda: -353.029930 lambda: 296.757681 lambda: -297.049653 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 krylov_tol : 7.708950e-03 
+-------------------------------------------------------------
+nonlinear iteration : 256
+current obj : 1.477868e+05, grad_norm : 8.978296e+04, feas_norm: 9.178550e-05
+lambda: -1051.294690 lambda: 1172.691946 lambda: -501.504903 lambda: 430.350365 lambda: -304.203322 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 krylov_tol : 7.697388e-03 
+-------------------------------------------------------------
+nonlinear iteration : 257
+current obj : 1.477822e+05, grad_norm : 8.978045e+04, feas_norm: 9.260253e-09
+lambda: -1050.428290 lambda: 1178.023937 lambda: -560.064400 lambda: 484.631192 lambda: -309.025613 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 krylov_tol : 7.697280e-03 
+-------------------------------------------------------------
+nonlinear iteration : 258
+current obj : 1.436601e+05, grad_norm : 8.485702e+04, feas_norm: 8.670517e-03
+lambda: -1050.141466 lambda: 1180.013448 lambda: -584.015801 lambda: 507.178692 lambda: -310.875489 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 krylov_tol : 7.483251e-03 
+-------------------------------------------------------------
+nonlinear iteration : 259
+current obj : 1.384798e+05, grad_norm : 8.058797e+04, feas_norm: 8.434379e-03
+lambda: -1043.555029 lambda: 1160.759664 lambda: -572.456377 lambda: 494.240250 lambda: -316.315771 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 krylov_tol : 7.292585e-03 
+-------------------------------------------------------------
+nonlinear iteration : 260
+current obj : 1.439615e+05, grad_norm : 8.544802e+04, feas_norm: 7.324113e-03
+lambda: -1029.794749 lambda: 1125.333434 lambda: -487.781531 lambda: 430.315004 lambda: -327.849957 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 krylov_tol : 7.509265e-03 
+-------------------------------------------------------------
+nonlinear iteration : 261
+current obj : 1.409231e+05, grad_norm : 8.321859e+04, feas_norm: 1.038143e-02
+lambda: -1026.201620 lambda: 1132.687912 lambda: -454.286129 lambda: 412.960681 lambda: -334.845861 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 krylov_tol : 7.410655e-03 
+-------------------------------------------------------------
+nonlinear iteration : 262
+current obj : 1.284838e+05, grad_norm : 7.594522e+04, feas_norm: 1.408212e-02
+lambda: -1039.891991 lambda: 1119.568478 lambda: -451.908732 lambda: 421.454733 lambda: -332.368625 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 krylov_tol : 7.079403e-03 
+-------------------------------------------------------------
+nonlinear iteration : 263
+current obj : 1.301358e+05, grad_norm : 7.762855e+04, feas_norm: 2.022951e-02
+lambda: -1026.310364 lambda: 1094.558691 lambda: -520.814266 lambda: 495.132441 lambda: -333.775465 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 krylov_tol : 7.157431e-03 
+-------------------------------------------------------------
+nonlinear iteration : 264
+current obj : 1.166051e+05, grad_norm : 7.036481e+04, feas_norm: 1.180321e-02
+lambda: -1020.289534 lambda: 1124.848145 lambda: -669.917536 lambda: 625.525775 lambda: -337.645191 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 krylov_tol : 6.814346e-03 
+-------------------------------------------------------------
+nonlinear iteration : 265
+current obj : 1.198057e+05, grad_norm : 7.062851e+04, feas_norm: 1.435177e-02
+lambda: -992.327629 lambda: 1133.532255 lambda: -806.290361 lambda: 725.498757 lambda: -333.678713 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 krylov_tol : 6.827103e-03 
+-------------------------------------------------------------
+nonlinear iteration : 266
+current obj : 1.117524e+05, grad_norm : 6.450522e+04, feas_norm: 6.749107e-03
+lambda: -999.472768 lambda: 1160.290974 lambda: -893.057411 lambda: 784.406903 lambda: -339.341797 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 krylov_tol : 6.524449e-03 
+-------------------------------------------------------------
+nonlinear iteration : 267
+current obj : 1.201173e+05, grad_norm : 6.669333e+04, feas_norm: 1.011344e-02
+lambda: -976.988850 lambda: 1117.096661 lambda: -896.358511 lambda: 799.121579 lambda: -347.318935 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 krylov_tol : 6.634186e-03 
+-------------------------------------------------------------
+nonlinear iteration : 268
+current obj : 1.187601e+05, grad_norm : 6.613531e+04, feas_norm: 1.503388e-04
+lambda: -976.221596 lambda: 1090.878728 lambda: -903.499041 lambda: 825.423614 lambda: -358.849381 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 krylov_tol : 6.606374e-03 
+-------------------------------------------------------------
+nonlinear iteration : 269
+current obj : 1.172031e+05, grad_norm : 6.537972e+04, feas_norm: 7.985419e-05
+lambda: -973.644955 lambda: 1077.031031 lambda: -900.552025 lambda: 831.635559 lambda: -362.594394 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 krylov_tol : 6.568526e-03 
+-------------------------------------------------------------
+nonlinear iteration : 270
+current obj : 1.171927e+05, grad_norm : 6.537486e+04, feas_norm: 6.311803e-08
+lambda: -968.455114 lambda: 1067.032557 lambda: -896.554758 lambda: 832.050456 lambda: -363.431403 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 krylov_tol : 6.568282e-03 
+-------------------------------------------------------------
+nonlinear iteration : 271
+current obj : 1.286008e+05, grad_norm : 7.158208e+04, feas_norm: 1.554409e-02
+lambda: -966.742521 lambda: 1063.475000 lambda: -895.011573 lambda: 832.242235 lambda: -363.727210 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 krylov_tol : 6.873035e-03 
+-------------------------------------------------------------
+nonlinear iteration : 272
+current obj : 1.344209e+05, grad_norm : 7.597282e+04, feas_norm: 6.000572e-03
+lambda: -990.709776 lambda: 1081.754394 lambda: -880.388203 lambda: 821.983393 lambda: -360.315953 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 krylov_tol : 7.080689e-03 
+-------------------------------------------------------------
+nonlinear iteration : 273
+current obj : 1.345330e+05, grad_norm : 7.608570e+04, feas_norm: 7.727415e-06
+lambda: -1017.185454 lambda: 1107.926394 lambda: -871.732106 lambda: 805.297925 lambda: -349.949071 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 krylov_tol : 7.085948e-03 
+-------------------------------------------------------------
+nonlinear iteration : 274
+current obj : 1.378511e+05, grad_norm : 7.727930e+04, feas_norm: 2.065023e-02
+lambda: -1026.348485 lambda: 1117.534972 lambda: -869.166830 lambda: 799.405928 lambda: -346.479286 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 krylov_tol : 7.141312e-03 
+-------------------------------------------------------------
+nonlinear iteration : 275
+current obj : 1.374237e+05, grad_norm : 7.749757e+04, feas_norm: 9.986535e-04
+lambda: -1031.581253 lambda: 1106.310616 lambda: -799.626282 lambda: 734.407541 lambda: -342.455811 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 krylov_tol : 7.151390e-03 
+-------------------------------------------------------------
+nonlinear iteration : 276
+current obj : 1.350894e+05, grad_norm : 7.542925e+04, feas_norm: 1.035987e-02
+lambda: -1033.837603 lambda: 1108.382507 lambda: -787.443963 lambda: 721.785914 lambda: -340.796898 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 krylov_tol : 7.055313e-03 
+-------------------------------------------------------------
+nonlinear iteration : 277
+current obj : 1.292740e+05, grad_norm : 7.215597e+04, feas_norm: 2.037519e-02
+lambda: -1037.617747 lambda: 1103.354890 lambda: -826.342354 lambda: 744.948274 lambda: -333.089264 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 krylov_tol : 6.900532e-03 
+-------------------------------------------------------------
+nonlinear iteration : 278
+current obj : 1.322304e+05, grad_norm : 7.237695e+04, feas_norm: 1.380189e-02
+lambda: -1028.331646 lambda: 1110.153987 lambda: -898.445047 lambda: 789.303210 lambda: -327.327687 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 krylov_tol : 6.911090e-03 
+-------------------------------------------------------------
+nonlinear iteration : 279
+current obj : 1.289909e+05, grad_norm : 7.077527e+04, feas_norm: 5.427158e-04
+lambda: -1012.825814 lambda: 1107.585206 lambda: -919.646437 lambda: 808.381534 lambda: -334.212625 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 krylov_tol : 6.834192e-03 
+-------------------------------------------------------------
+nonlinear iteration : 280
+current obj : 1.289826e+05, grad_norm : 7.077500e+04, feas_norm: 2.797007e-08
+lambda: -998.851939 lambda: 1102.479466 lambda: -934.300299 lambda: 819.583780 lambda: -336.865315 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 krylov_tol : 6.834179e-03 
+-------------------------------------------------------------
+nonlinear iteration : 281
+current obj : 1.289826e+05, grad_norm : 7.077519e+04, feas_norm: 9.288792e-16
+lambda: -994.200261 lambda: 1101.172107 lambda: -940.500749 lambda: 824.406550 lambda: -337.837496 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 krylov_tol : 6.834188e-03 
+-------------------------------------------------------------
+nonlinear iteration : 282
+current obj : 1.218549e+05, grad_norm : 6.892151e+04, feas_norm: 9.004323e-03
+lambda: -992.650711 lambda: 1100.875940 lambda: -943.157677 lambda: 826.495430 lambda: -338.186024 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 krylov_tol : 6.744097e-03 
+-------------------------------------------------------------
+nonlinear iteration : 283
+current obj : 1.211745e+05, grad_norm : 6.639950e+04, feas_norm: 6.943399e-03
+lambda: -989.269782 lambda: 1092.154253 lambda: -930.336170 lambda: 813.315754 lambda: -328.811870 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 krylov_tol : 6.619556e-03 
+-------------------------------------------------------------
+nonlinear iteration : 284
+current obj : 1.209586e+05, grad_norm : 6.624995e+04, feas_norm: 9.102988e-06
+lambda: -970.747759 lambda: 1065.892062 lambda: -932.747100 lambda: 818.998551 lambda: -333.579370 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 krylov_tol : 6.612097e-03 
+-------------------------------------------------------------
+nonlinear iteration : 285
+current obj : 1.298080e+05, grad_norm : 7.188666e+04, feas_norm: 1.198664e-02
+lambda: -963.427274 lambda: 1056.394168 lambda: -933.869322 lambda: 821.374140 lambda: -335.763222 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 krylov_tol : 6.887642e-03 
+-------------------------------------------------------------
+nonlinear iteration : 286
+current obj : 1.373151e+05, grad_norm : 7.697792e+04, feas_norm: 1.319562e-02
+lambda: -997.604234 lambda: 1100.178213 lambda: -948.968821 lambda: 829.482855 lambda: -333.920174 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 krylov_tol : 7.127373e-03 
+-------------------------------------------------------------
+nonlinear iteration : 287
+current obj : 1.348481e+05, grad_norm : 7.605761e+04, feas_norm: 1.294396e-02
+lambda: -1036.915512 lambda: 1135.074380 lambda: -946.002083 lambda: 831.221064 lambda: -332.989971 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 krylov_tol : 7.084639e-03 
+-------------------------------------------------------------
+nonlinear iteration : 288
+current obj : 1.385316e+05, grad_norm : 7.678168e+04, feas_norm: 1.688004e-02
+lambda: -1049.196766 lambda: 1162.711379 lambda: -975.257715 lambda: 834.353006 lambda: -323.113034 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 krylov_tol : 7.118282e-03 
+-------------------------------------------------------------
+nonlinear iteration : 289
+current obj : 1.352532e+05, grad_norm : 7.326189e+04, feas_norm: 9.375438e-03
+lambda: -1056.058687 lambda: 1188.354913 lambda: -999.942797 lambda: 830.240638 lambda: -317.916859 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 krylov_tol : 6.953212e-03 
+-------------------------------------------------------------
+nonlinear iteration : 290
+current obj : 1.275972e+05, grad_norm : 7.089243e+04, feas_norm: 1.188923e-02
+lambda: -1047.761237 lambda: 1192.980017 lambda: -1021.790182 lambda: 828.253115 lambda: -318.729331 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 krylov_tol : 6.839846e-03 
+-------------------------------------------------------------
+nonlinear iteration : 291
+current obj : 1.273847e+05, grad_norm : 7.090470e+04, feas_norm: 5.747457e-05
+lambda: -1040.322062 lambda: 1233.120773 lambda: -1070.576859 lambda: 824.596902 lambda: -309.203774 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 krylov_tol : 6.840438e-03 
+-------------------------------------------------------------
+nonlinear iteration : 292
+current obj : 1.273830e+05, grad_norm : 7.090445e+04, feas_norm: 7.942726e-09
+lambda: -1038.014942 lambda: 1250.866438 lambda: -1092.834272 lambda: 823.559252 lambda: -305.234917 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 krylov_tol : 6.840426e-03 
+-------------------------------------------------------------
+nonlinear iteration : 293
+current obj : 1.273830e+05, grad_norm : 7.090434e+04, feas_norm: 4.965068e-16
+lambda: -1037.189268 lambda: 1258.304427 lambda: -1101.984530 lambda: 823.256619 lambda: -303.791839 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 krylov_tol : 6.840421e-03 
+-------------------------------------------------------------
+nonlinear iteration : 294
+current obj : 1.157048e+05, grad_norm : 6.677380e+04, feas_norm: 7.061594e-03
+lambda: -1036.893425 lambda: 1261.405718 lambda: -1105.747093 lambda: 823.185180 lambda: -303.269112 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 krylov_tol : 6.638187e-03 
+-------------------------------------------------------------
+nonlinear iteration : 295
+current obj : 1.159334e+05, grad_norm : 6.686870e+04, feas_norm: 8.554773e-06
+lambda: -1015.841675 lambda: 1270.784962 lambda: -1129.204491 lambda: 824.133050 lambda: -295.931826 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 krylov_tol : 6.642902e-03 
+-------------------------------------------------------------
+nonlinear iteration : 296
+current obj : 1.190396e+05, grad_norm : 6.662515e+04, feas_norm: 1.594266e-02
+lambda: -1009.728828 lambda: 1276.957950 lambda: -1140.999537 lambda: 825.930635 lambda: -293.781429 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 krylov_tol : 6.630794e-03 
+-------------------------------------------------------------
+nonlinear iteration : 297
+current obj : 1.054851e+05, grad_norm : 5.969447e+04, feas_norm: 5.717339e-03
+lambda: -998.617193 lambda: 1227.573063 lambda: -1087.918143 lambda: 813.482267 lambda: -298.873329 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 krylov_tol : 6.276441e-03 
+-------------------------------------------------------------
+nonlinear iteration : 298
+current obj : 9.358119e+04, grad_norm : 5.345882e+04, feas_norm: 1.237015e-02
+lambda: -954.235640 lambda: 1167.630194 lambda: -1064.148890 lambda: 811.463738 lambda: -301.326829 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 krylov_tol : 5.939585e-03 
+-------------------------------------------------------------
+nonlinear iteration : 299
+current obj : 9.437842e+04, grad_norm : 5.529485e+04, feas_norm: 6.753173e-03
+lambda: -891.050545 lambda: 1084.086255 lambda: -1026.263412 lambda: 802.907393 lambda: -300.873084 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 krylov_tol : 6.040721e-03 
+-------------------------------------------------------------
+nonlinear iteration : 300
+current obj : 9.271044e+04, grad_norm : 5.345183e+04, feas_norm: 1.637358e-02
+lambda: -886.128714 lambda: 1069.635795 lambda: -1013.051896 lambda: 803.049736 lambda: -297.117538 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 krylov_tol : 5.939197e-03 
+-------------------------------------------------------------
+nonlinear iteration : 301
+current obj : 9.280314e+04, grad_norm : 5.350663e+04, feas_norm: 4.954959e-05
+lambda: -878.720250 lambda: 1085.242976 lambda: -1043.092215 lambda: 805.346062 lambda: -295.549644 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 krylov_tol : 5.942240e-03 
+-------------------------------------------------------------
+nonlinear iteration : 302
+current obj : 9.975349e+04, grad_norm : 5.753273e+04, feas_norm: 7.538678e-03
+lambda: -876.666095 lambda: 1093.224478 lambda: -1056.401288 lambda: 807.963472 lambda: -295.862022 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 krylov_tol : 6.161748e-03 
+-------------------------------------------------------------
+nonlinear iteration : 303
+current obj : 1.108586e+05, grad_norm : 6.359986e+04, feas_norm: 7.945982e-03
+lambda: -908.229117 lambda: 1145.731853 lambda: -1081.491492 lambda: 798.659408 lambda: -288.013280 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 krylov_tol : 6.478501e-03 
+-------------------------------------------------------------
+nonlinear iteration : 304
+current obj : 1.105365e+05, grad_norm : 6.345106e+04, feas_norm: 2.395902e-06
+lambda: -957.643191 lambda: 1182.616531 lambda: -1087.996640 lambda: 800.438911 lambda: -285.058575 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 krylov_tol : 6.470918e-03 
+-------------------------------------------------------------
+nonlinear iteration : 305
+current obj : NaN, grad_norm : NaN, feas_norm: NaN
+lambda: -973.348639 lambda: 1195.370697 lambda: -1091.884645 lambda: 802.413958 lambda: -284.390398 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 lambda: 0.000000 krylov_tol : 9.500000e-03 
